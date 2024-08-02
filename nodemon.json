@@ -1,0 +1,14 @@
+{
+  "watch": [
+    "assets/scripts/*.js",
+    "_site/slides/*.html"
+  ],
+  "ignore": [
+    "node_modules",
+    "assets/web/*.png"
+  ],
+  "ext": "js,qmd",
+  "exec": "node assets/scripts/capture-thumbnails.js",
+  "delay": "1000"
+}
+

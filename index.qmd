@@ -1,0 +1,34 @@
+---
+listing:
+  id: diapositivas
+  contents: 
+    - path: "slides/b01.qmd"
+      title: "Bloque 1: Introducción"
+      image: "assets/web/b01-thumbnail.png"
+    - path: "slides/b02.qmd"
+      title: "Bloque 2: Estimación en R"
+      image: "assets/web/b02-thumbnail.png"
+  type: grid
+page-layout: full
+title-block-banner: true
+---
+
+This is a Quarto website.
+
+::: {.content-visible when-profile="speaker"}
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+
+:::
+
+
+## Presentaciones
+
+::: {#diapositivas}
+:::
+
+
+lalalala

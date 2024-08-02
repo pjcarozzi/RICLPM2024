@@ -1,0 +1,1010 @@
+[
+  {
+    "objectID": "slides/b01.html#sec-toc",
+    "href": "slides/b01.html#sec-toc",
+    "title": "Bloque 1: Introducción",
+    "section": "Contenidos",
+    "text": "Contenidos"
+  },
+  {
+    "objectID": "slides/b01.html#presentación-paper",
+    "href": "slides/b01.html#presentación-paper",
+    "title": "Bloque 1: Introducción",
+    "section": "Presentación paper",
+    "text": "Presentación paper\n\nestas notas son publicas"
+  },
+  {
+    "objectID": "slides/b01.html#premisa",
+    "href": "slides/b01.html#premisa",
+    "title": "Bloque 1: Introducción",
+    "section": "Premisa",
+    "text": "Premisa"
+  },
+  {
+    "objectID": "slides/b01.html#hipótesis-paper",
+    "href": "slides/b01.html#hipótesis-paper",
+    "title": "Bloque 1: Introducción",
+    "section": "Hipótesis paper",
+    "text": "Hipótesis paper"
+  },
+  {
+    "objectID": "slides/b01.html#metodología-paper",
+    "href": "slides/b01.html#metodología-paper",
+    "title": "Bloque 1: Introducción",
+    "section": "Metodología paper",
+    "text": "Metodología paper"
+  },
+  {
+    "objectID": "slides/b01.html#resultados-paper",
+    "href": "slides/b01.html#resultados-paper",
+    "title": "Bloque 1: Introducción",
+    "section": "Resultados paper",
+    "text": "Resultados paper"
+  },
+  {
+    "objectID": "slides/b01.html#más-datos",
+    "href": "slides/b01.html#más-datos",
+    "title": "Bloque 1: Introducción",
+    "section": "Más datos",
+    "text": "Más datos"
+  },
+  {
+    "objectID": "slides/b01.html#similitudes",
+    "href": "slides/b01.html#similitudes",
+    "title": "Bloque 1: Introducción",
+    "section": "Similitudes",
+    "text": "Similitudes\nAmbos tipos de modelos dan cuenta de la varianza de formas distintas."
+  },
+  {
+    "objectID": "slides/b01.html#diferencias",
+    "href": "slides/b01.html#diferencias",
+    "title": "Bloque 1: Introducción",
+    "section": "Diferencias",
+    "text": "Diferencias"
+  },
+  {
+    "objectID": "slides/b01.html#componentes",
+    "href": "slides/b01.html#componentes",
+    "title": "Bloque 1: Introducción",
+    "section": "Componentes",
+    "text": "Componentes\n\n\n\n\nFigura 8: RICLPM bivariado.\n\n\n\n\nDe Hamaker et al. (2015), p.103.\n\n\nx e y son dos variables medidas en tres momentos de tiempo.\n\\[x_{it} = \\mu_{t} + \\kappa_{i} + p_{it}^{*} \\\\\ny_{it} = \\pi_{t} + \\omega_{i} + q_{it}^{*}\\]\n\nGrandes medias: \\(\\mu_{t}\\) y \\(\\pi_{t}\\).\n\n\nInterceptos aleatorios: \\(\\kappa_{i}\\) y \\(\\omega_{i}\\) representan las desviaciones individuales (rasgos) respecto a las grandes medias. Variables latentes.\n\n\n\\(p_{it}^{*}\\) y \\(q_{it}^{*}\\): representan las desviaciones temporales de los individuos respecto a sus puntajes esperados (ej. \\(\\mu_{t} + \\kappa_{i}\\))."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RI-CLPM 2024",
+    "section": "",
+    "text": "This is a Quarto website."
+  },
+  {
+    "objectID": "index.html#presentaciones",
+    "href": "index.html#presentaciones",
+    "title": "RI-CLPM 2024",
+    "section": "Presentaciones",
+    "text": "Presentaciones\n\n\n\n\n\n\n\n\n\n\nBloque 1: Introducción\n\n\n\n\n\n\n\n\n\nJul 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBloque 2: Estimación en R\n\n\n\n\n\n\n\n\n\nJul 30, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\nlalalala"
+  },
+  {
+    "objectID": "slides/b02.html#lelele",
+    "href": "slides/b02.html#lelele",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Lelele",
+    "text": "Lelele"
+  },
+  {
+    "objectID": "slides/b01.html#section",
+    "href": "slides/b01.html#section",
+    "title": "Bloque 1: Introducción",
+    "section": "",
+    "text": "Curso RICLPM &gt; Bloque 1 &gt; Introducción"
+  },
+  {
+    "objectID": "slides/b01.html#onlineoffline",
+    "href": "slides/b01.html#onlineoffline",
+    "title": "Bloque 1: Introducción",
+    "section": "Online/offline",
+    "text": "Online/offline\nChayinska, Miranda & Gonzalez (2021). A longitudinal study of the bidirectional causal relationships between online political participation and offline collective action.\n\n\n\n“Examinar las dinámicas causales longitudinales entre la participación política online y la acción colectiva offline.”"
+  },
+  {
+    "objectID": "slides/b01.html#hipótesis",
+    "href": "slides/b01.html#hipótesis",
+    "title": "Bloque 1: Introducción",
+    "section": "Hipótesis",
+    "text": "Hipótesis\n\n\n\n\n\nFigura 1: Independence hypothesis\n\n\n\n\n\n\n\nFigura 2: Spillover hypothesis\n\n\n\n\n\n\n\n\n\nFigura 3: Facilitation hypothesis\n\n\n\n\n\n\n\nFigura 4: Reciprocity hypothesis"
+  },
+  {
+    "objectID": "slides/b01.html#métodos",
+    "href": "slides/b01.html#métodos",
+    "title": "Bloque 1: Introducción",
+    "section": "Métodos",
+    "text": "Métodos\n\nDATOS: Estudio Longitudinal Social de Chile (ELSOC).\n\nN=2924 adultos (60.27% mujeres; media de 46.10 años (SD=15.28).\n3 olas: 2016, 2017, 2018.\n\n\n\n\nMEDICION:\n\nParticipación política online. Con qué frecuencia usó RRSS para expresar su opinión sobre temas públicos en los últimos 12 meses? (1 = nunca, 5 = muy frecuentemente).\nParticipación en acción colectiva offline. Con qué frecuencia participó en [firmar una carta o petición en apoyo a una causa, asistir a una marcha o manifestación política, una huelga] en los últimos 12 meses? (1 = nunca, 5 = muy frecuentemente).\n\n\n\n\n\nANÁLISIS: Cross-lagged panel models (CLPM).\n\n\nCurso RICLPM &gt; Bloque 1 &gt; Introducción"
+  },
+  {
+    "objectID": "slides/b01.html#section-1",
+    "href": "slides/b01.html#section-1",
+    "title": "Bloque 1: Introducción",
+    "section": "",
+    "text": "Figura 6: Modelo bidireccional para participación online y offline (Estudio 2)\n\n\n\n\nDe Chayinska et al. (2021), p.9. Nota: *p &lt;.05; ***p &lt; .001. Modelo d2 en Tabla 1. \\(\\chi^2\\) (57) = 239.702, p &lt; .001; CFI = 0.966; TLI = 0.939; RMSEA = 0.033; SRMR = 0.032. Se reportan los coeficientes no estandarizados; las líneas punteadas indican los paths no significativos. Por claridad, no se representaron las covariables dentro de los puntos de tiempo ni los valores no significativos."
+  },
+  {
+    "objectID": "slides/b01.html#section-2",
+    "href": "slides/b01.html#section-2",
+    "title": "Bloque 1: Introducción",
+    "section": "",
+    "text": "Figura 7: Modelo bidireccional para participación online y offline (Estudio 1)\n\n\n\n\nDe Chayinska et al. (2021), p.7. Nota: *p &lt;.05; ***p &lt; .001. \\(\\chi^2\\) (140) = 359.037. p &lt; .001; CFI = 0.980; TLI = 0.970; RMSEA = 0.036; SRMR = 0.043. Se reportan los coeficientes no estandarizados; las líneas punteadas indican los paths no significativos. Por claridad, no se representaron las covariables dentro de los puntos de tiempo ni los valores no significativos."
+  },
+  {
+    "objectID": "slides/b01.html#estrategia-analítica",
+    "href": "slides/b01.html#estrategia-analítica",
+    "title": "Bloque 1: Introducción",
+    "section": "Estrategia analítica",
+    "text": "Estrategia analítica\n\n\n\n\n\nA. Independence \n\n\n\n\nB. Spillover \n\n\n\n\nC. Facilitation \n\n\n\n\nD. Reciprocity \n\n\n\n\n\n\nCLPM bivariado \n\n\nChayinska et al. (2021) estiman cuatro CLPM para examinar las relaciones causales entre la participación política online y la acción colectiva offline.\n\n\n\n\nCuatro modelos a estimar:\n\nA: Modelo autorregresivo.\nPaths autorregresivos:\n\n\\(\\alpha_2 : OFF_{T1} \\rightarrow OFF_{T2}\\)\n\\(\\alpha_3 : OFF_{T2} \\rightarrow OFF_{T3}\\)\n\\(\\delta_2 : ON_{T1} \\rightarrow ON_{T2}\\)\n\\(\\delta_3 : ON_{T2} \\rightarrow ON_{T3}\\)"
+  },
+  {
+    "objectID": "slides/b01.html#indices-de-ajuste",
+    "href": "slides/b01.html#indices-de-ajuste",
+    "title": "Bloque 1: Introducción",
+    "section": "Indices de ajuste",
+    "text": "Indices de ajuste\n\n\n\n\n\n\n\n\n\n\nModel\nModel fit\nModel comparison\nModel invariance testing\n\n\n\n\na1\nχ2 (57) = 255.307, p &lt;.001; CFI = .963; TLI = .934; RMSEA = .034; SRMR = .034\n \n \n\n\na2\nχ2 (59) = 252.945, p &lt;.001; CFI = .964; TLI = .938; RMSEA = .034; SRMR = .034\na2 vs. a1\nΔCFI= .001; ΔRMSEA= .000\n\n\nb1\nχ2 (57) = 236.596, p &lt;.001; CFI = .967; TLI = .940; RMSEA = .033; SRMR = .032\n \n \n\n\nb2\nχ2 (58) = 241.300, p &lt;.001; CFI = .966; TLI = .940; RMSEA = .033; SRMR = .032\nb2 vs. b1\nΔCFI= -.001; ΔRMSEA= .000\n\n\n\n \nb2 vs. a2\nΔCFI= .002; ΔRMSEA= -.001\n\n\nc1\nχ2 (57) = 249.152, p &lt;.001; CFI = .964; TLI = .936; RMSEA = .034; SRMR = .033\n \n \n\n\nc2\nχ2 (58) = 248.981, p &lt;.001; CFI = .964; TLI = .938; RMSEA = .034; SRMR = .033\nc2 vs. c1\nΔCFI= .000; ΔRMSEA= .000\n\n\n\n \nc2 vs. a2\nΔCFI= .000; ΔRMSEA= .000\n\n\n\n \nc2 vs. b2\nΔCFI= -.002; ΔRMSEA= .001\n\n\nd1\nχ2 (55) = 235.085, p &lt;.001; CFI = .967; TLI = .938; RMSEA = .033; SRMR = .031\n \n \n\n\nd2\nχ2 (57) = 239.702, p &lt;.001; CFI = .966; TLI = .939; RMSEA = .033; SRMR = .032\nd2 vs. d1\nΔCFI= -.001; ΔRMSEA= .000\n\n\n\n \nd2 vs. a2\nΔCFI= .002; ΔRMSEA= -.001\n\n\n\n \nd2 vs. b2\nΔCFI= .000; ΔRMSEA= .000\n\n\n\n \nd2 vs. c2\nΔCFI= .003; ΔRMSEA= -.001"
+  },
+  {
+    "objectID": "slides/b01.html#section-3",
+    "href": "slides/b01.html#section-3",
+    "title": "Bloque 1: Introducción",
+    "section": "",
+    "text": "Chayinska, M., Miranda, D., & González, R. (2021). A longitudinal study of the bidirectional causal relationships between online political participation and offline collective action. Computers in Human Behavior, 121, 106810. https://doi.org/10.1016/j.chb.2021.106810\n\n\nChen, F. F. (2007). Sensitivity of Goodness of Fit Indexes to Lack of Measurement Invariance. Structural Equation Modeling: A Multidisciplinary Journal, 14(3), 464-504. https://doi.org/10.1080/10705510701301834\n\n\nCole, D. A., & Maxwell, S. E. (2003). Testing Mediational Models With Longitudinal Data: Questions and Tips in the Use of Structural Equation Modeling. Journal of Abnormal Psychology, 112(4), 558-577. https://doi.org/10.1037/0021-843X.112.4.558\n\n\nHamaker, E. L., Kuiper, R. M., & Grasman, R. P. P. P. (2015). A critique of the cross-lagged panel model. Psychological Methods, 20(1), 102-116. https://doi.org/10.1037/a0038889\n\n\nMulder, J. D., & Hamaker, E. L. (2021). Three Extensions of the Random Intercept Cross-Lagged Panel Model. Structural Equation Modeling: A Multidisciplinary Journal, 28(4), 638-648. https://doi.org/10.1080/10705511.2020.1784738\n\n\nRutkowski, L., & Svetina, D. (2014). Assessing the Hypothesis of Measurement Invariance in the Context of Large-Scale International Surveys. Educational and Psychological Measurement, 74(1), 31-57. https://doi.org/10.1177/0013164413498257\n\n\nSatorra, A., & Bentler, P. (2001). A scaled difference chi-square test statistic for moment structure analysis. Psychometrika, 66(4), 507-514. https://doi.org/10.1007/BF02296192"
+  },
+  {
+    "objectID": "slides/b01.html#lala",
+    "href": "slides/b01.html#lala",
+    "title": "Bloque 1: Introducción",
+    "section": "lala",
+    "text": "lala\n\n\n\n\n\n\n\n\n\n\n\n\n\n(a) \n\n  \n    Modelo\n    Indicadores de Bondad de Ajuste\n    Modelos\n    Comparación de ajuste\n  \n\n  \n    a1\n    χ2 (57) = 255.307, p &lt;.001; CFI = .963; TLI = .934; RMSEA = .034; SRMR = .034\n     a2 vs. a1\n    ΔCFI= .001; ΔRMSEA= .000\n  \n  \n    a2\n    χ2 (59) = 252.945, p &lt;.001; CFI = .964; TLI = .938; RMSEA = .034; SRMR = .034\n    \n    \n  \n  \n    b1\n    χ2 (57) = 236.596, p &lt;.001; CFI = .967; TLI = .940; RMSEA = .033; SRMR = .032\n    b2 vs. b1\n    ΔCFI= -.001; ΔRMSEA= .000\n  \n  \n    b2\n    χ2 (58) = 241.300, p &lt;.001; CFI = .966; TLI = .940; RMSEA = .033; SRMR = .032\n    b2 vs. a2\n    ΔCFI= .002; ΔRMSEA= -.001\n  \n  \n    c1\n    χ2 (57) = 249.152, p &lt;.001; CFI = .964; TLI = .936; RMSEA = .034; SRMR = .033\n    c2 vs. c1\n    ΔCFI= .000; ΔRMSEA= .000\n  \n  \n    c2\n    χ2 (58) = 248.981, p &lt;.001; CFI = .964; TLI = .938; RMSEA = .034; SRMR = .033\n    c2 vs. a2\n    ΔCFI= .000; ΔRMSEA= .000\n  \n  \n     \n     \n    c2 vs. b2\n    ΔCFI= -.002; ΔRMSEA= .001\n  \n  \n    d1\n    χ2 (55) = 235.085, p &lt;.001; CFI = .967; TLI = .938; RMSEA = .033; SRMR = .031\n    d2 vs. d1\n    ΔCFI= -.001; ΔRMSEA= .000\n  \n  \n    d2\n    χ2 (57) = 239.702, p &lt;.001; CFI = .966; TLI = .939; RMSEA = .033; SRMR = .032\n    d2 vs. a2\n    ΔCFI= .002; ΔRMSEA= -.001\n  \n  \n     \n     \n    d2 vs. b2\n    ΔCFI= .000; ΔRMSEA= .000\n  \n  \n     \n     \n    d2 vs. c2\n    ΔCFI= .003; ΔRMSEA= -.001\n  \n\n\n\n\nTabla 1: An image treated like a table\n\n\n\nCurso RICLPM &gt; Bloque 1 &gt; Modelos Cross-Lagged"
+  },
+  {
+    "objectID": "slides/b01.html#section-4",
+    "href": "slides/b01.html#section-4",
+    "title": "Bloque 1: Introducción",
+    "section": "",
+    "text": "Chayinska, M., Miranda, D., & González, R. (2021). A longitudinal study of the bidirectional causal relationships between online political participation and offline collective action. Computers in Human Behavior, 121, 106810. https://doi.org/10.1016/j.chb.2021.106810\n\n\nChen, F. F. (2007). Sensitivity of Goodness of Fit Indexes to Lack of Measurement Invariance. Structural Equation Modeling: A Multidisciplinary Journal, 14(3), 464-504. https://doi.org/10.1080/10705510701301834\n\n\nCole, D. A., & Maxwell, S. E. (2003). Testing Mediational Models With Longitudinal Data: Questions and Tips in the Use of Structural Equation Modeling. Journal of Abnormal Psychology, 112(4), 558-577. https://doi.org/10.1037/0021-843X.112.4.558\n\n\nHamaker, E. L., Kuiper, R. M., & Grasman, R. P. P. P. (2015). A critique of the cross-lagged panel model. Psychological Methods, 20(1), 102-116. https://doi.org/10.1037/a0038889\n\n\nMulder, J. D., & Hamaker, E. L. (2021). Three Extensions of the Random Intercept Cross-Lagged Panel Model. Structural Equation Modeling: A Multidisciplinary Journal, 28(4), 638-648. https://doi.org/10.1080/10705511.2020.1784738\n\n\nRutkowski, L., & Svetina, D. (2014). Assessing the Hypothesis of Measurement Invariance in the Context of Large-Scale International Surveys. Educational and Psychological Measurement, 74(1), 31-57. https://doi.org/10.1177/0013164413498257\n\n\nSatorra, A., & Bentler, P. (2001). A scaled difference chi-square test statistic for moment structure analysis. Psychometrika, 66(4), 507-514. https://doi.org/10.1007/BF02296192"
+  },
+  {
+    "objectID": "slides/b01.html#sec-html-tables",
+    "href": "slides/b01.html#sec-html-tables",
+    "title": "Bloque 1: Introducción",
+    "section": "",
+    "text": "Caption lalala\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nModelo\nIndicadores de Bondad de Ajuste\nModelos\nComparación de ajuste\n\n\n\n\na1\nχ2 (57) = 255.307, p &lt;.001; CFI = .963;\nTLI = .934; RMSEA = .034; SRMR = .034\na2 vs. a1\nΔCFI= .001; ΔRMSEA= .000\n\n\na2\nχ2 (59) = 252.945, p &lt;.001; CFI = .964;\nTLI = .938; RMSEA = .034; SRMR = .034\n\n\n\n\nb1\nχ2 (57) = 236.596, p &lt;.001; CFI = .967;\nTLI = .940; RMSEA = .033; SRMR = .032\nb2 vs. b1\nΔCFI= -.001; ΔRMSEA= .000\n\n\nb2\nχ2 (58) = 241.300, p &lt;.001; CFI = .966;\nTLI = .940; RMSEA = .033; SRMR = .032\nb2 vs. a2\nΔCFI= .002; ΔRMSEA= -.001\n\n\nc1\nχ2 (57) = 249.152, p &lt;.001; CFI = .964;\nTLI = .936; RMSEA = .034; SRMR = .033\nc2 vs. c1\nΔCFI= .000; ΔRMSEA= .000\n\n\nc2\nχ2 (58) = 248.981, p &lt;.001; CFI = .964;\nTLI = .938; RMSEA = .034; SRMR = .033\nc2 vs. a2\nΔCFI= .000; ΔRMSEA= .000\n\n\n\n\nc2 vs. b2\nΔCFI= -.002; ΔRMSEA= .001\n\n\nd1\nχ2 (55) = 235.085, p &lt;.001; CFI = .967;\nTLI = .938; RMSEA = .033; SRMR = .031\nd2 vs. d1\nΔCFI= -.001; ΔRMSEA= .000\n\n\nd2\nχ2 (57) = 239.702, p &lt;.001; CFI = .966;\nTLI = .939; RMSEA = .033; SRMR = .032\nd2 vs. a2\nΔCFI= .002; ΔRMSEA= -.001\n\n\n\n\nd2 vs. b2\nΔCFI= .000; ΔRMSEA= .000\n\n\n\n\nd2 vs. c2\nΔCFI= .003; ΔRMSEA= -.001\n\n\n\n\n\nAdaptado de Chayinska et al. (2021), p.8. ?@tbl-fitclpm Índices de bondad de ajuste de los modelos cross-lagged para participación online-offline. Nota. Modelos: a1 = autorregresivo (estimado libremente); a2 = autorregresivo (con constricciones de igualdad); b1 = unidireccional forward (estimado libremente); b2 = unidireccional forward (con constricciones de igualdad); c1 = unidireccional backward (estimado libremente); c2 = unidireccional backward (con constricciones de igualdad); d1 = bidireccional (estimado libremente); d2 = bidireccional (con constricciones de igualdad).\n\n\nCurso RICLPM &gt; Bloque 1 &gt; Modelos Cross-Lagged"
+  },
+  {
+    "objectID": "slides/b01.html#tabla-fit",
+    "href": "slides/b01.html#tabla-fit",
+    "title": "Bloque 1: Introducción",
+    "section": "",
+    "text": "Tabla 1: Índices de ajuste de los modelos cross-lagged para participación online-offline (Estudio 2).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nModelo\nIndicadores de Bondad de Ajuste\nModelos\nComparación de ajuste\n\n\n\n\na1\nχ2 (57) = 255.307, p &lt;.001; CFI = .963;\nTLI = .934; RMSEA = .034; SRMR = .034\na2 vs. a1\nΔCFI= .001; ΔRMSEA= .000\n\n\na2\nχ2 (59) = 252.945, p &lt;.001; CFI = .964;\nTLI = .938; RMSEA = .034; SRMR = .034\n\n\n\n\nb1\nχ2 (57) = 236.596, p &lt;.001; CFI = .967;\nTLI = .940; RMSEA = .033; SRMR = .032\nb2 vs. b1\nΔCFI= -.001; ΔRMSEA= .000\n\n\nb2\nχ2 (58) = 241.300, p &lt;.001; CFI = .966;\nTLI = .940; RMSEA = .033; SRMR = .032\nb2 vs. a2\nΔCFI= .002; ΔRMSEA= -.001\n\n\nc1\nχ2 (57) = 249.152, p &lt;.001; CFI = .964;\nTLI = .936; RMSEA = .034; SRMR = .033\nc2 vs. c1\nΔCFI= .000; ΔRMSEA= .000\n\n\nc2\nχ2 (58) = 248.981, p &lt;.001; CFI = .964;\nTLI = .938; RMSEA = .034; SRMR = .033\nc2 vs. a2\nΔCFI= .000; ΔRMSEA= .000\n\n\n\n\nc2 vs. b2\nΔCFI= -.002; ΔRMSEA= .001\n\n\nd1\nχ2 (55) = 235.085, p &lt;.001; CFI = .967;\nTLI = .938; RMSEA = .033; SRMR = .031\nd2 vs. d1\nΔCFI= -.001; ΔRMSEA= .000\n\n\nd2\nχ2 (57) = 239.702, p &lt;.001; CFI = .966;\nTLI = .939; RMSEA = .033; SRMR = .032\nd2 vs. a2\nΔCFI= .002; ΔRMSEA= -.001\n\n\n\n\nd2 vs. b2\nΔCFI= .000; ΔRMSEA= .000\n\n\n\n\nd2 vs. c2\nΔCFI= .003; ΔRMSEA= -.001\n\n\n\n\n\nAdaptado de Chayinska et al. (2021), p.8. Nota. Modelos: a1 = autorregresivo (estimado libremente); a2 = autorregresivo (con constricciones de igualdad); b1 = unidireccional forward (estimado libremente); b2 = unidireccional forward (con constricciones de igualdad); c1 = unidireccional backward (estimado libremente); c2 = unidireccional backward (con constricciones de igualdad); d1 = bidireccional (estimado libremente); d2 = bidireccional (con constricciones de igualdad)."
+  },
+  {
+    "objectID": "slides/b01.html#estudio-2",
+    "href": "slides/b01.html#estudio-2",
+    "title": "Bloque 1: Introducción",
+    "section": "Estudio 2",
+    "text": "Estudio 2\n\nDATOS: Estudio Longitudinal Social de Chile (ELSOC).\n\nN=2924 adultos (60.27% mujeres; media de 46.10 años (SD=15.28).\n3 olas: 2016, 2017, 2018.\n\n\n\n\nMEDICION:\n\nParticipación política online. Con qué frecuencia usó RRSS para expresar su opinión sobre temas públicos en los últimos 12 meses? (1 = nunca, 5 = muy frecuentemente).\nParticipación en acción colectiva offline. Con qué frecuencia participó en [firmar una carta o petición en apoyo a una causa, asistir a una marcha o manifestación política, una huelga] en los últimos 12 meses? (1 = nunca, 5 = muy frecuentemente).\n\n\n\n\n\nANÁLISIS: Cross-lagged panel models (CLPM)."
+  },
+  {
+    "objectID": "slides/b01.html#lalsd",
+    "href": "slides/b01.html#lalsd",
+    "title": "Bloque 1: Introducción",
+    "section": "lalsd",
+    "text": "lalsd\nExplicar que son y para que sirven los modelos cross-lagged."
+  },
+  {
+    "objectID": "slides/b01.html#lla",
+    "href": "slides/b01.html#lla",
+    "title": "Bloque 1: Introducción",
+    "section": "lla",
+    "text": "lla\nPaths\nConstricciones de igualdad"
+  },
+  {
+    "objectID": "slides/b01.html#estudio-1",
+    "href": "slides/b01.html#estudio-1",
+    "title": "Bloque 1: Introducción",
+    "section": "Estudio 1",
+    "text": "Estudio 1\n\nDATOS: Estudio Longitudinal Social de Chile (ELSOC).\n\nN=2924 adultos (60.27% mujeres; media de 46.10 años (SD=15.28).\n3 olas: 2016, 2017, 2018.\n\n\n\n\nMEDICION:\n\nParticipación política online. Con qué frecuencia usó RRSS para expresar su opinión sobre temas públicos en los últimos 12 meses? (1 = nunca, 5 = muy frecuentemente).\nParticipación en acción colectiva offline. Con qué frecuencia participó en [firmar una carta o petición en apoyo a una causa, asistir a una marcha o manifestación política, una huelga] en los últimos 12 meses? (1 = nunca, 5 = muy frecuentemente).\n\n\n\n\n\nANÁLISIS: Cross-lagged panel models (CLPM)."
+  },
+  {
+    "objectID": "slides/b01.html#método",
+    "href": "slides/b01.html#método",
+    "title": "Bloque 1: Introducción",
+    "section": "Método",
+    "text": "Método\nDos estudios longitudinales:\n\nEstudio 1: Estudiantes universitarios.\n\nMuestra de N=1227 estudiantes universitarios (370 hombres, 719 mujeres, 137 no reportan género), edades entre 24-40 años (Media = 18.89, SD = 1.63)\n5 olas a lo largo de 2 años.\n\n\n\nEstudio 2: Estudio Longitudinal Social de Chile (ELSOC).\n\nN=2924 adultos (60.27% mujeres; media de 46.10 años (SD=15.28).\n3 olas: 2016, 2017, 2018.\n\n\n\n\nMEDICION:\n\nParticipación política online. Con qué frecuencia usó RRSS para expresar su opinión sobre temas públicos en los últimos 12 meses? (1 = nunca, 5 = muy frecuentemente).\nParticipación en acción colectiva offline. Con qué frecuencia participó en [firmar una carta o petición en apoyo a una causa, asistir a una marcha o manifestación política, una huelga] en los últimos 12 meses? (1 = nunca, 5 = muy frecuentemente).\n\n\n\n\n\nANÁLISIS: Cross-lagged panel models (CLPM)."
+  },
+  {
+    "objectID": "slides/b01.html#dos-estudios-longitudinales",
+    "href": "slides/b01.html#dos-estudios-longitudinales",
+    "title": "Bloque 1: Introducción",
+    "section": "Dos estudios longitudinales",
+    "text": "Dos estudios longitudinales\nPARTICIPANTES:\n\nEstudio 1: Estudiantes universitarios.\n\nMuestra de N=1227 estudiantes universitarios (370 hombres, 719 mujeres, 137 no reportan género), edades entre 24-40 años (Media = 18.89, SD = 1.63) en la primera ola.\n5 olas a lo largo de 2 años.\n\n\n\n\nEstudio 2: Muestra representativa a nivel nacional.\n\nEstudio Longitudinal Social de Chile (ELSOC).\nN=2924 adultos en la primera ola. 60.27% mujeres; media de edad 46.10 años (SD=15.28).\n3 olas: 2016, 2017, 2018."
+  },
+  {
+    "objectID": "slides/b01.html#dos-estudios-longitudinales-1",
+    "href": "slides/b01.html#dos-estudios-longitudinales-1",
+    "title": "Bloque 1: Introducción",
+    "section": "Dos estudios longitudinales",
+    "text": "Dos estudios longitudinales\nMEDICION:\n\n\nParticipación política online.\nCon qué frecuencia usó RRSS para expresar su opinión sobre temas públicos en los últimos 12 meses? (1 = nunca; 5 = muy frecuentemente).\nParticipación en acción colectiva offline.\nCon qué frecuencia participó en [firmar una carta o petición en apoyo a una causa, asistir a una marcha o manifestación política, una huelga] en los últimos 12 meses? (1 = nunca; 5 = muy frecuentemente).\n\n\nANÁLISIS:\n\nModelos Cross-Lagged longitudinales (CLPM)."
+  },
+  {
+    "objectID": "slides/b01.html#más-olas",
+    "href": "slides/b01.html#más-olas",
+    "title": "Bloque 1: Introducción",
+    "section": "Más olas",
+    "text": "Más olas\n\n\nFigura 6: Modelo bidireccional para participación online y offline (Estudio 1)\n\n\n\n\nDe Chayinska et al. (2021), p.7. Nota: *p &lt;.05; ***p &lt; .001. \\(\\chi^2\\) (140) = 359.037. p &lt; .001; CFI = 0.980; TLI = 0.970; RMSEA = 0.036; SRMR = 0.043.. Se reportan los coeficientes no estandarizados; las líneas punteadas indican los paths no significativos. Por claridad, no se representaron las covariables dentro de los puntos de tiempo ni los valores no significativos."
+  },
+  {
+    "objectID": "slides/b01.html#clpm-con-más-olas-de-medición",
+    "href": "slides/b01.html#clpm-con-más-olas-de-medición",
+    "title": "Bloque 1: Introducción",
+    "section": "CLPM con más olas de medición",
+    "text": "CLPM con más olas de medición\n\n\nFigura 6: Modelo bidireccional para participación online y offline (Estudio 1)\n\n\n\n\nDe Chayinska et al. (2021), p.7. Nota: *p &lt;.05; ***p &lt; .001. \\(\\chi^2\\) (140) = 359.037. p &lt; .001; CFI = 0.980; TLI = 0.970; RMSEA = 0.036; SRMR = 0.043.. Se reportan los coeficientes no estandarizados; las líneas punteadas indican los paths no significativos. Por claridad, no se representaron las covariables dentro de los puntos de tiempo ni los valores no significativos."
+  },
+  {
+    "objectID": "slides/b01.html#cross-lagged-panel-models-clpm",
+    "href": "slides/b01.html#cross-lagged-panel-models-clpm",
+    "title": "Bloque 1: Introducción",
+    "section": "Cross-Lagged Panel Models (CLPM)",
+    "text": "Cross-Lagged Panel Models (CLPM)\nExplicar que son y para que sirven los modelos cross-lagged."
+  },
+  {
+    "objectID": "slides/b01.html#cross-lagged-panel-models",
+    "href": "slides/b01.html#cross-lagged-panel-models",
+    "title": "Bloque 1: Introducción",
+    "section": "Cross-Lagged Panel Models",
+    "text": "Cross-Lagged Panel Models\nLos Cross-Lagged Panel Models (CLPM) buscan identificar los mecanismos de retroalimentación entre dos o más variables a lo largo del tiempo.\nTres grandes objetivos:\n\nConocer si existen relaciones causales entre las variables y si estos efectos son recíprocos.\nEstablecer la dirección de dichas relaciones.\nEvaluar la estabilidad de las relaciones a lo largo del tiempo.\nIdentificar cuál de las variables es causalmente dominante."
+  },
+  {
+    "objectID": "slides/b01.html#paths-en-clpm",
+    "href": "slides/b01.html#paths-en-clpm",
+    "title": "Bloque 1: Introducción",
+    "section": "Paths en CLPM",
+    "text": "Paths en CLPM\nConstricciones de igualdad: \\(\\beta_{X_{T1-T2}}=\\beta_{X_{T2-T3}}\\).\nPodemos estimar modelos con diferentes restricciones de igualdad en los coeficientes de los paths. Por ejemplo, \\(\\beta_{X_{T1-T2}}=\\beta_{Y_{T1-T2}}\\).\nAl constreñir los coeficientes de los paths a ser iguales en el tiempo, se puede evaluar si los efectos son estables a lo largo del tiempo."
+  },
+  {
+    "objectID": "slides/b01.html#paths-en-clpm-1",
+    "href": "slides/b01.html#paths-en-clpm-1",
+    "title": "Bloque 1: Introducción",
+    "section": "Paths en CLPM",
+    "text": "Paths en CLPM\nConstricciones de igualdad: \\(\\beta_{X_{T1-T2}}=\\beta_{X_{T2-T3}}\\).\nPodemos estimar modelos con diferentes restricciones de igualdad en los coeficientes de los paths. Por ejemplo, \\(\\beta_{X_{T1-T2}}=\\beta_{Y_{T1-T2}}\\).\nAl constreñir los coeficientes de los paths a ser iguales en el tiempo, se puede evaluar si los efectos son estables a lo largo del tiempo."
+  },
+  {
+    "objectID": "slides/b01.html#clpm-vs-ri-clpm",
+    "href": "slides/b01.html#clpm-vs-ri-clpm",
+    "title": "Bloque 1: Introducción",
+    "section": "CLPM vs RI-CLPM",
+    "text": "CLPM vs RI-CLPM\nRI-CLPM es propuesto como una aproximación SEM alternativa (Hamaker, Kuiper & Grasman, 2015).\n\nPerspectiva multinivel.\n\n\n\nDescompone la varianza de las variables observadas en:\n\nComponente inter-individuo (between): Varianza atribuible a diferencias entre rasgos individuales, entre individuos.\nComponente intra-individuo (within): Varianza atribuible al cambio de los individuos en el tiempo.\n\n\n\n\n\nPermiten controlar la estabilidad/cambio entre individuos de manera de que las relaciones cross-lagged reflejen únicamente la estabilidad/cambio intra-individuo."
+  },
+  {
+    "objectID": "slides/b01.html#ri-clpm",
+    "href": "slides/b01.html#ri-clpm",
+    "title": "Bloque 1: Introducción",
+    "section": "RI-CLPM",
+    "text": "RI-CLPM\nEsto se logra estimando como una variable latente los interceptos aleatorios (de X e Y) para controlar el componente inter-individuo."
+  },
+  {
+    "objectID": "slides/b01.html#parámentros-autorregresivos",
+    "href": "slides/b01.html#parámentros-autorregresivos",
+    "title": "Bloque 1: Introducción",
+    "section": "Parámentros autorregresivos",
+    "text": "Parámentros autorregresivos"
+  },
+  {
+    "objectID": "slides/b01.html#parámetros-cross-lagged",
+    "href": "slides/b01.html#parámetros-cross-lagged",
+    "title": "Bloque 1: Introducción",
+    "section": "Parámetros cross-lagged",
+    "text": "Parámetros cross-lagged"
+  },
+  {
+    "objectID": "slides/b01.html#mono",
+    "href": "slides/b01.html#mono",
+    "title": "Bloque 1: Introducción",
+    "section": "Mono",
+    "text": "Mono"
+  },
+  {
+    "objectID": "slides/b01.html#variables-latentes",
+    "href": "slides/b01.html#variables-latentes",
+    "title": "Bloque 1: Introducción",
+    "section": "Variables latentes",
+    "text": "Variables latentes\n\n\nDe Mulder & Hamaker (2021), p.7. Nota. Incorporación de indicadores múltiples. Hay una variable latente por ocasión, que contiene una parte invariante en el tiempo capturada por interceptos aleatorios de orden superior y una parte variante que es usada para capturar las dinamicas en el tiempo."
+  },
+  {
+    "objectID": "slides/b01.html#número-de-olas",
+    "href": "slides/b01.html#número-de-olas",
+    "title": "Bloque 1: Introducción",
+    "section": "Número de olas",
+    "text": "Número de olas"
+  },
+  {
+    "objectID": "slides/b01.html#tiempo-entre-las-mediciones",
+    "href": "slides/b01.html#tiempo-entre-las-mediciones",
+    "title": "Bloque 1: Introducción",
+    "section": "Tiempo entre las mediciones",
+    "text": "Tiempo entre las mediciones"
+  },
+  {
+    "objectID": "slides/b01.html#hipótesis-1",
+    "href": "slides/b01.html#hipótesis-1",
+    "title": "Bloque 1: Introducción",
+    "section": "Hipótesis",
+    "text": "Hipótesis\n\nCurso RICLPM &gt; Bloque 1 &gt; Introducción\n\n\n\n\n\n\n\nChayinska, M., Miranda, D., & González, R. (2021). A longitudinal study of the bidirectional causal relationships between online political participation and offline collective action. Computers in Human Behavior, 121, 106810. https://doi.org/10.1016/j.chb.2021.106810\n\n\nChen, F. F. (2007). Sensitivity of Goodness of Fit Indexes to Lack of Measurement Invariance. Structural Equation Modeling: A Multidisciplinary Journal, 14(3), 464-504. https://doi.org/10.1080/10705510701301834\n\n\nCole, D. A., & Maxwell, S. E. (2003). Testing Mediational Models With Longitudinal Data: Questions and Tips in the Use of Structural Equation Modeling. Journal of Abnormal Psychology, 112(4), 558-577. https://doi.org/10.1037/0021-843X.112.4.558\n\n\nHamaker, E. L., Kuiper, R. M., & Grasman, R. P. P. P. (2015). A critique of the cross-lagged panel model. Psychological Methods, 20(1), 102-116. https://doi.org/10.1037/a0038889\n\n\nRutkowski, L., & Svetina, D. (2014). Assessing the Hypothesis of Measurement Invariance in the Context of Large-Scale International Surveys. Educational and Psychological Measurement, 74(1), 31-57. https://doi.org/10.1177/0013164413498257\n\n\nSatorra, A., & Bentler, P. (2001). A scaled difference chi-square test statistic for moment structure analysis. Psychometrika, 66(4), 507-514. https://doi.org/10.1007/BF02296192"
+  },
+  {
+    "objectID": "slides/b01.html#modelos-cross-lagged-panel",
+    "href": "slides/b01.html#modelos-cross-lagged-panel",
+    "title": "Bloque 1: Introducción",
+    "section": "Modelos Cross-Lagged Panel",
+    "text": "Modelos Cross-Lagged Panel\nLos modelos cross-lagged panel (Cross-Lagged Panel Models, CLPM) buscan identificar los mecanismos de retroalimentación entre dos o más variables a lo largo del tiempo.\n\nTres grandes objetivos:\n\nConocer si existen relaciones causales entre las variables y si estos efectos son recíprocos.\nEstablecer la dirección de dichas relaciones.\nIdentificar cuál de las variables es causalmente dominante."
+  },
+  {
+    "objectID": "slides/b01.html#section-5",
+    "href": "slides/b01.html#section-5",
+    "title": "Bloque 1: Introducción",
+    "section": "",
+    "text": "Al igual que los CLPM, los RI-CLPM buscan identificar los mecanismos de retroalimentación entre dos o más variables a lo largo del tiempo.\nProblema del CLPM: comparar el efecto cruzado. La correlación entre X en tiempo 1 e Y en tiempo 2 por si mismas en inapropiada para hacer inferencias causales. Si dos constructos tienen distintos grados de estabilidad en el tiempo, la comparación de las correlaciones cross-lagged puede llevar a conclusiones espúreas.\nPara solucionar esto, se utilizan los CLPM. Los CLPM permiten controlar la estabilidad de los constructos a través de la inclusión de relaciones autorregresivas.\n“No solo debemos tener en cuenta la estabilidad, sino que también necesitamos tener en cuenta el tipo correcto de estabilidad.” (Hamaker, Kuiper & Grasman, 2015, p. 2)."
+  },
+  {
+    "objectID": "slides/b01.html#ri-clpm-1",
+    "href": "slides/b01.html#ri-clpm-1",
+    "title": "Bloque 1: Introducción",
+    "section": "RI-CLPM",
+    "text": "RI-CLPM\nRI-CLPM: es propuesto como una aproximación SEM alternativa. Hamaker, Kuiper y Grasman (2015)\nConsidera los datos longitudinales desde un punto de vista multinivel. Las medidas en el tiempo están anidadas en los individuos. Por tanto, RI-CLPM puede descomponer la varianza de las variables observadas en dos componentes: Componente inter-individuo (between): Varianza atribuible a diferencias entre rasgos individuales, entre individuos. Componente intra-individuo (within): Varianza atribuible al cambio de los individuos en el tiempo. Esta estrategia permite controlar la estabilidad/cambio entre individuos de manera de que las relaciones lagged reflejen únicamente la estabilidad/cambio intra-individuo. Esto se logra estimando como una variable latente los interceptos aleatorios (de X e Y) para controlar el componente inter-individuo."
+  },
+  {
+    "objectID": "slides/b01.html#modelos-cross-lagged-panel-1",
+    "href": "slides/b01.html#modelos-cross-lagged-panel-1",
+    "title": "Bloque 1: Introducción",
+    "section": "Modelos Cross-Lagged Panel",
+    "text": "Modelos Cross-Lagged Panel\n\n\n\n\nFigura 5: CLPM bivariado.\n\n\n\n\nDe Hamaker et al. (2015), p.103.\n\n\nx e y son dos variables medidas en tres momentos de tiempo.\n\nSímbolos:\n\nTriángulos: constantes (estructura de medias)\nCuadrados: variables observadas\nCírculos: variables latentes.\nAquí, las variables latentes p y q son simplemente las variables observadas centradas.\n\n\n\n\n:::"
+  },
+  {
+    "objectID": "slides/b01.html#modelos-cross-lagged-panel-2",
+    "href": "slides/b01.html#modelos-cross-lagged-panel-2",
+    "title": "Bloque 1: Introducción",
+    "section": "Modelos Cross-Lagged Panel",
+    "text": "Modelos Cross-Lagged Panel\n\n\n\n\nFigura 5: CLPM bivariado.\n\n\n\n\nDe Hamaker et al. (2015), p.103.\n\n\nx e y son dos variables medidas en tres momentos de tiempo.\n\\[x_{it} = \\mu_{t} + p_{it} \\\\\ny_{it} = \\pi_{t} + q_{it}\\]\nSiendo \\(\\mu_{t}\\) y \\(\\pi_{t}\\) las grandes medias en el tiempo t para cada variable.\n\n\\(p_{it}\\) y \\(q_{it}\\) representan las desviaciones temporales de cada individuo respecto a la gran media en el tiempo t.\n\n\n\n:::"
+  },
+  {
+    "objectID": "slides/b01.html#modelos-cross-lagged-panel-3",
+    "href": "slides/b01.html#modelos-cross-lagged-panel-3",
+    "title": "Bloque 1: Introducción",
+    "section": "Modelos Cross-Lagged Panel",
+    "text": "Modelos Cross-Lagged Panel\n\n\n\n\nFigura 5: CLPM bivariado.\n\n\n\n\nDe Hamaker et al. (2015), p.103.\n\n\n\\(p_{it}\\) y \\(q_{it}\\) representan las desviaciones temporales de cada individuo respecto a la gran media en el tiempo t. Son modeladas como:\n\\[p_{it}=\\alpha_{t}p_{it-1}+\\beta_{t}q_{it-1}+u_{it}\\\\\n  q_{it}=\\delta_{t}q_{it-1}+\\gamma_{t}p_{it-1}+v{it}\\]\n\\(\\alpha_{t}\\), \\(\\delta_{t}\\): Parámetros autorregresivos.\nDan cuenta de la estabilidad temporal de los constructos.\n\n\n:::"
+  },
+  {
+    "objectID": "slides/b01.html#modelos-cross-lagged-panel-4",
+    "href": "slides/b01.html#modelos-cross-lagged-panel-4",
+    "title": "Bloque 1: Introducción",
+    "section": "Modelos Cross-Lagged Panel",
+    "text": "Modelos Cross-Lagged Panel\n\n\n\n\nFigura 5: CLPM bivariado.\n\n\n\n\nDe Hamaker et al. (2015), p.103.\n\n\n\\(p_{it}\\) y \\(q_{it}\\) representan las desviaciones temporales de cada individuo respecto a la gran media en el tiempo t. Son modeladas como:\n\\[p_{it}=\\alpha_{t}p_{it-1}+\\beta_{t}q_{it-1}+u_{it}\\\\\n  q_{it}=\\delta_{t}q_{it-1}+\\gamma_{t}p_{it-1}+v{it}\\]\n\\(\\beta_{t}\\), \\(\\gamma_{t}\\): Parámetros cross-lagged.\nReflejan los efectos entre las variables, interpretados como cambio predictivo (Hamaker et al., 2015)."
+  },
+  {
+    "objectID": "slides/b01.html#section-6",
+    "href": "slides/b01.html#section-6",
+    "title": "Bloque 1: Introducción",
+    "section": "",
+    "text": "Al igual que los CLPM, los RI-CLPM buscan identificar los mecanismos de retroalimentación entre dos o más variables a lo largo del tiempo.\nProblema del CLPM: comparar el efecto cruzado. La correlación entre X en tiempo 1 e Y en tiempo 2 por si mismas en inapropiada para hacer inferencias causales. Si dos constructos tienen distintos grados de estabilidad en el tiempo, la comparación de las correlaciones cross-lagged puede llevar a conclusiones espúreas.\nPara solucionar esto, se utilizan los CLPM. Los CLPM permiten controlar la estabilidad de los constructos a través de la inclusión de relaciones autorregresivas.\n“No solo debemos tener en cuenta la estabilidad, sino que también necesitamos tener en cuenta el tipo correcto de estabilidad.” (Hamaker, Kuiper & Grasman, 2015, p. 2)."
+  },
+  {
+    "objectID": "slides/b01.html#estrategia-analítica-1",
+    "href": "slides/b01.html#estrategia-analítica-1",
+    "title": "Bloque 1: Introducción",
+    "section": "Estrategia analítica",
+    "text": "Estrategia analítica\n\n\n\n\n\nA. Independence \n\n\n\n\nB. Spillover \n\n\n\n\nC. Facilitation \n\n\n\n\nD. Reciprocity \n\n\n\n\n\nCLPM bivariado \n\n\nChayinska et al. (2021) estiman cuatro CLPM para examinar las relaciones causales entre la participación política online y la acción colectiva offline.\n\n\nCuatro modelos a estimar:\n\nB: Modelo unidireccional forward.\nPaths autorregresivos:\n\n\\(\\alpha_2 : OFF_{T1} \\rightarrow OFF_{T2}\\)\n\\(\\alpha_3 : OFF_{T2} \\rightarrow OFF_{T3}\\)\n\\(\\delta_2 : ON_{T1} \\rightarrow ON_{T2}\\)\n\\(\\delta_3 : ON_{T2} \\rightarrow ON_{T3}\\)\n\nPaths cross-lagged:\n\n\\(\\gamma_2 : OFF_{T1} \\rightarrow ON_{T2}\\)\n\\(\\gamma_3 : OFF_{T2} \\rightarrow ON_{T3}\\)"
+  },
+  {
+    "objectID": "slides/b01.html#estrategia-analítica-2",
+    "href": "slides/b01.html#estrategia-analítica-2",
+    "title": "Bloque 1: Introducción",
+    "section": "Estrategia analítica",
+    "text": "Estrategia analítica\n\n\n\n\n\nA. Independence \n\n\n\n\nB. Spillover \n\n\n\n\nC. Facilitation \n\n\n\n\nD. Reciprocity \n\n\n\n\n\nCLPM bivariado \n\n\nChayinska et al. (2021) estiman cuatro CLPM para examinar las relaciones causales entre la participación política online y la acción colectiva offline.\n\n\nCuatro modelos a estimar:\n\nC: Modelo unidireccional backward.\nPaths autorregresivos:\n\n\\(\\alpha_2 : OFF_{T1} \\rightarrow OFF_{T2}\\)\n\\(\\alpha_3 : OFF_{T2} \\rightarrow OFF_{T3}\\)\n\\(\\delta_2 : ON_{T1} \\rightarrow ON_{T2}\\)\n\\(\\delta_3 : ON_{T2} \\rightarrow ON_{T3}\\)\n\nPaths cross-lagged:\n\n\\(\\beta_2 : ON_{T1} \\rightarrow OFF_{T2}\\)\n\\(\\beta_3 : ON_{T2} \\rightarrow OFF_{T3}\\)"
+  },
+  {
+    "objectID": "slides/b01.html#estrategia-analítica-3",
+    "href": "slides/b01.html#estrategia-analítica-3",
+    "title": "Bloque 1: Introducción",
+    "section": "Estrategia analítica",
+    "text": "Estrategia analítica\n\n\n\n\n\nA. Independence \n\n\n\n\nB. Spillover \n\n\n\n\nC. Facilitation \n\n\n\n\nD. Reciprocity \n\n\n\n\n\nCLPM bivariado \n\n\nChayinska et al. (2021) estiman cuatro CLPM para examinar las relaciones causales entre la participación política online y la acción colectiva offline.\n\n\nCuatro modelos a estimar:\n\nD: Modelo bidireccional.\nPaths autorregresivos:\n\n\\(\\alpha_2 : OFF_{T1} \\rightarrow OFF_{T2}\\)\n\\(\\alpha_3 : OFF_{T2} \\rightarrow OFF_{T3}\\)\n\\(\\delta_2 : ON_{T1} \\rightarrow ON_{T2}\\)\n\\(\\delta_3 : ON_{T2} \\rightarrow ON_{T3}\\)\n\nPaths cross-lagged:\n\n\\(\\gamma_2 : OFF_{T1} \\rightarrow ON_{T2}\\)\n\\(\\gamma_3 : OFF_{T2} \\rightarrow ON_{T3}\\)\n\n\\(\\beta_2 : ON_{T1} \\rightarrow OFF_{T2}\\)\n\\(\\beta_3 : ON_{T2} \\rightarrow OFF_{T3}\\)"
+  },
+  {
+    "objectID": "slides/b01.html#estrategia-analítica-4",
+    "href": "slides/b01.html#estrategia-analítica-4",
+    "title": "Bloque 1: Introducción",
+    "section": "Estrategia analítica",
+    "text": "Estrategia analítica\n\nPara cada uno de estos 4 modelos, se estima una versión libre y una versión constreñida, que restringe que los parámetros autorregresivos y cross-lagged sean iguales en el tiempo. Ej:\n\nEstimación libre: \\(\\gamma_2,\\gamma_3,\\beta_2,\\beta_3\\)\nEstimación constreñida: \\(\\gamma,\\beta\\;(con\\;\\beta_2=\\beta_3,\\gamma_2=\\gamma_3)\\)\n\n\n\n\nEn total se estiman 8 modelos:\n\n\n\n\nLibre\nRestringido\n\n\n\n\nAutorregresivo\nA1\nA2\n\n\nUnidireccional forward\nB1\nB2\n\n\nUnidireccional backward\nC1\nC2\n\n\nBidireccional\nD1\nD2"
+  },
+  {
+    "objectID": "slides/b01.html#estrategia-analítica-5",
+    "href": "slides/b01.html#estrategia-analítica-5",
+    "title": "Bloque 1: Introducción",
+    "section": "Estrategia analítica",
+    "text": "Estrategia analítica\nLos modelos estimados son comparados sistemáticamente usando sus índices de ajuste (CFI, Comparative Fit Index; RMSEA, Root Mean Square Error).\n\nModelos libres vs. restringidos (Cole & Maxwell, 2003).\nTestear si los efectos de las variables permanecen estables a lo largo del tiempo.\nSi los modelos restringidos no cambian sustancialmente el ajuste, se elige la versión consetreñida, más parsimoniosa.\n\n\n\nModelos anidados (A,B,C,D).\nContrastar secuencialmente las hipótesis de independencia, spillover, facilitación y reciprocidad."
+  },
+  {
+    "objectID": "slides/b01.html#estrategia-analítica-6",
+    "href": "slides/b01.html#estrategia-analítica-6",
+    "title": "Bloque 1: Introducción",
+    "section": "Estrategia analítica",
+    "text": "Estrategia analítica\nCriterio de selección de modelos: Se compara el ajuste de los modelos, específicamente la diferencia entre sus CFI y RMSEA (Chen, 2007; Rutkowski & Svetina, 2014).\n\nPuntos de corte:\n\n\\(\\Delta CFI &lt; 0.02\\)\n\\(\\Delta RMSEA &lt; 0.03\\)\n\n\n\nRutkowski & Svetina (2014) y Chen (2007) recomiendan este método cuando se tiene una muestra N &gt; 300.\nEl test tradicional de diferencias de \\(\\chi^2\\) (Satorra & Bentler, 2001) es sensible al tamaño de la muestra."
+  },
+  {
+    "objectID": "slides/b01.html#clpm-y-mediación",
+    "href": "slides/b01.html#clpm-y-mediación",
+    "title": "Bloque 1: Introducción",
+    "section": "CLPM y mediación",
+    "text": "CLPM y mediación\n\n\nEntender el rol de las normas y la eficacia grupal en la participación en movimientos sociales.\nSi las normas de grupo son altas, es decir, si yo percibo que mis amigos y familiares participan en movimientos sociales, esto impacta en mi frecuencia de participación en movimientos sociales?\nY esta relación, es a su vez mediada por la eficacia grupal? Es decir, si percibo que eficacia , esto impacta en mi participación en movimientos sociales?\nMediación longitudinal.\nDatos ELSOC."
+  },
+  {
+    "objectID": "slides/b01.html#clpm-vs.-ri-clpm",
+    "href": "slides/b01.html#clpm-vs.-ri-clpm",
+    "title": "Bloque 1: Introducción",
+    "section": "CLPM vs. RI-CLPM",
+    "text": "CLPM vs. RI-CLPM\nLos CLPM incluyen parámetros autorregresivos para controlar la estabilidad temporal de los constructos.\n\n\nLos CLPM asumen que cada persona varía a lo largo del tiempo en torno a una gran media.\n\n\n\n\nSi la estabilidad de los constructos tiene una naturaleza invariante en el tiempo (ej. rasgos individuales), esta no puede ser controlada adecuadamente a través de la inclusión de parámetros autorregresivos.\n\n\n\n\nProblema de variable omitida: la estimación de los coeficientes de regresión cross-lagged en CLPM puede estar sesgada."
+  },
+  {
+    "objectID": "slides/b01.html#clpm-vs-ri-clpm-1",
+    "href": "slides/b01.html#clpm-vs-ri-clpm-1",
+    "title": "Bloque 1: Introducción",
+    "section": "CLPM vs RI-CLPM",
+    "text": "CLPM vs RI-CLPM\n\nEstabilidad invariante en el tiempo a través de la inclusión de interceptos aleatorios."
+  },
+  {
+    "objectID": "slides/b01.html#componentes-de-los-ri-clpm",
+    "href": "slides/b01.html#componentes-de-los-ri-clpm",
+    "title": "Bloque 1: Introducción",
+    "section": "Componentes de los RI-CLPM",
+    "text": "Componentes de los RI-CLPM\n\n\n\n\nFigura 9: RICLPM bivariado.\n\n\n\n\nDe Hamaker et al. (2015), p.103.\n\n\nx e y son dos variables medidas en tres momentos de tiempo.\n\\[x_{it} = \\mu_{t} + \\kappa_{i} + p_{it}^{*} \\\\\ny_{it} = \\pi_{t} + \\omega_{i} + q_{it}^{*}\\]\n\nGrandes medias: \\(\\mu_{t}\\) y \\(\\pi_{t}\\).\n\n\nInterceptos aleatorios: \\(\\kappa_{i}\\) y \\(\\omega_{i}\\) representan las desviaciones individuales (rasgos) respecto a las grandes medias. Variables latentes.\n\n\n\\(p_{it}^{*}\\) y \\(q_{it}^{*}\\): representan las desviaciones temporales de los individuos respecto a sus puntajes esperados (ej. \\(\\mu_{t} + \\kappa_{i}\\))."
+  },
+  {
+    "objectID": "slides/b01.html#componentes-de-los-ri-clpm-1",
+    "href": "slides/b01.html#componentes-de-los-ri-clpm-1",
+    "title": "Bloque 1: Introducción",
+    "section": "Componentes de los RI-CLPM",
+    "text": "Componentes de los RI-CLPM\n\n\n\n\nFigura 9: RICLPM bivariado.\n\n\n\n\nDe Hamaker et al. (2015), p.103.\n\n\n\\(p_{it}^{*}\\) y \\(q_{it}^{*}\\) son modeladas como:\n\\[p_{it}^{*}=\\alpha_{t}^{*}p_{it-1}^{*}+\\beta_{t}^{*}q_{it-1}^{*}+u_{it}^{*}\\\\\n  q_{it}^{*}=\\delta_{t}^{*}q_{it-1}^{*}+\\gamma_{t}^{*}p_{it-1}^{*}+v{it}^{*}\\]\n\\(\\alpha_{t}^{*}\\), \\(\\delta_{t}^{*}\\): Parámetros autorregresivos.\nRepresentan el efecto carry-over dentro de las personas. El impacto de la desviación respecto a su puntaje esperado en una variable en t sobre la desviación temporal en la misma variable en t+1."
+  },
+  {
+    "objectID": "slides/b01.html#componentes-de-los-ri-clpm-2",
+    "href": "slides/b01.html#componentes-de-los-ri-clpm-2",
+    "title": "Bloque 1: Introducción",
+    "section": "Componentes de los RI-CLPM",
+    "text": "Componentes de los RI-CLPM\n\n\n\n\nFigura 9: RICLPM bivariado.\n\n\n\n\nDe Hamaker et al. (2015), p.103.\n\n\n\\(p_{it}^{*}\\) y \\(q_{it}^{*}\\) son modeladas como:\n\\[p_{it}^{*}=\\alpha_{t}^{*}p_{it-1}^{*}+\\beta_{t}^{*}q_{it-1}^{*}+u_{it}^{*}\\\\\n  q_{it}^{*}=\\delta_{t}^{*}q_{it-1}^{*}+\\gamma_{t}^{*}p_{it-1}^{*}+v{it}^{*}\\]\n\\(\\beta_{t}^{*}\\), \\(\\gamma_{t}^{*}\\): Parámetros cross-lagged.\nRepresentan el efecto spill-over dentro de las personas. El impacto de la desviación respecto a su puntaje esperado en una variable en t sobre la desviación temporal en la otra variable en t+1."
+  },
+  {
+    "objectID": "slides/b01.html#olas",
+    "href": "slides/b01.html#olas",
+    "title": "Bloque 1: Introducción",
+    "section": "Olas",
+    "text": "Olas\n\nCLPM requiere de al menos 2 olas para ser identificado.\nRICLPM requiere de al menos 3 olas de datos, pero se recomiendan 4-5 olas.\nLa convergencia del modelo mejora en la medida en que el número de olas se incrementa."
+  },
+  {
+    "objectID": "slides/b01.html#olas-y-tiempo-entre-mediciones",
+    "href": "slides/b01.html#olas-y-tiempo-entre-mediciones",
+    "title": "Bloque 1: Introducción",
+    "section": "Olas y tiempo entre mediciones",
+    "text": "Olas y tiempo entre mediciones\n\n\nCLPM requiere de al menos 2 olas para ser identificado. RICLPM requiere de al menos 3 olas de datos, pero se recomiendan 4-5 olas.\nLa convergencia del modelo mejora en la medida en que el número de olas se incrementa.\n\n\n\n\n\nLos lags entre mediciones deben estar igualmente espaciados en el tiempo.\nSi no lo fueran, los efectos autorregresivos y cross-lagged podrían ser distintos entre mediciones. Agrega complejidad a la interpretación de los resultados.\nSi los intervalos entre mediciones son muy largos, o muy cortos, la relación dinámica intra-individuos podría no ser capturada."
+  },
+  {
+    "objectID": "slides/b01.html#ri-clpm-o-clpm",
+    "href": "slides/b01.html#ri-clpm-o-clpm",
+    "title": "Bloque 1: Introducción",
+    "section": "RI-CLPM o CLPM?",
+    "text": "RI-CLPM o CLPM?\nLa decisión entre usar un CLPM o un RI-CLPM dependerá de la pregunta de investigación y debe ser informada por la teoría.\n\nCuál es la contribución esperada del componente inter-individuo y del componente intra-individuo a la varianza total? Es necesario descomponer la varianza?\n\n\n\nSi la varianza entre individuos es muy baja, CLPM y RI-CLPM son estadísticamente equivalentes.\nSi el foco está en el cambio en procesos intra-individuales, RI-CLPM es preferible al CLPM siempre que: 1) el diseño permita capturar el cambio y 2) el constructo sea susceptible de variar en el tiempo."
+  },
+  {
+    "objectID": "slides/b01.html#predictores",
+    "href": "slides/b01.html#predictores",
+    "title": "Bloque 1: Introducción",
+    "section": "Predictores",
+    "text": "Predictores\n\n\nDe Mulder & Hamaker (2021), p.2. Nota. Inclusión de variables invariantes en el tiempo. El panel superior izquierdo, \\(N_i\\) tiene un impacto directo sobre las variables observadas en cada ola. El panel superior derecho, \\(N_i\\) tiene un impacto indirecto sobre las variables observadas a través de los interceptos aleatorios. El panel inferior izquierdo, \\(L_i\\) es explicada por los interceptos aleatorios, incluyendo sólo varianza between. En el panel inferior derecho, \\(L_i\\) es explicada tanto por los interceptos aleatorios como por los componentes within, siendo predicha tanto por la varianza between como por la varianza within."
+  },
+  {
+    "objectID": "slides/b01.html#ri-clpm-básico",
+    "href": "slides/b01.html#ri-clpm-básico",
+    "title": "Bloque 1: Introducción",
+    "section": "RI-CLPM básico",
+    "text": "RI-CLPM básico\n\n\nDe Mulder & Hamaker (2021), p.2. Nota. Representación gráfica del RICLPM básico. \\(S_{it}\\) denota la variable observada problemas de sueño y \\(A_{it}\\) la variable observada ansiedad para el individuo \\(i\\) en el tiempo \\(t\\)."
+  },
+  {
+    "objectID": "slides/b01.html#variables-invariantes-en-el-tiempo",
+    "href": "slides/b01.html#variables-invariantes-en-el-tiempo",
+    "title": "Bloque 1: Introducción",
+    "section": "Variables invariantes en el tiempo",
+    "text": "Variables invariantes en el tiempo\n\n\nDe Mulder & Hamaker (2021), p.2. Nota. Inclusión de variables invariantes en el tiempo. El panel superior izquierdo, \\(N_i\\) tiene un impacto directo sobre las variables observadas en cada ola. El panel superior derecho, \\(N_i\\) tiene un impacto indirecto sobre las variables observadas a través de los interceptos aleatorios. El panel inferior izquierdo, \\(L_i\\) es explicada por los interceptos aleatorios, incluyendo sólo varianza between. En el panel inferior derecho, \\(L_i\\) es explicada tanto por los interceptos aleatorios como por los componentes within, siendo predicha tanto por la varianza between como por la varianza within."
+  },
+  {
+    "objectID": "slides/b01.html#variables-time-invariant",
+    "href": "slides/b01.html#variables-time-invariant",
+    "title": "Bloque 1: Introducción",
+    "section": "Variables time-invariant",
+    "text": "Variables time-invariant\n\n\nDe Mulder & Hamaker (2021), p.2. Nota. Inclusión de variables invariantes en el tiempo. El panel superior izquierdo, \\(N_i\\) tiene un impacto directo sobre las variables observadas en cada ola. El panel superior derecho, \\(N_i\\) tiene un impacto indirecto sobre las variables observadas a través de los interceptos aleatorios. El panel inferior izquierdo, \\(L_i\\) es explicada por los interceptos aleatorios, incluyendo sólo varianza between. En el panel inferior derecho, \\(L_i\\) es explicada tanto por los interceptos aleatorios como por los componentes within, siendo predicha tanto por la varianza between como por la varianza within."
+  },
+  {
+    "objectID": "slides/b01.html#interceptos-aleatorios",
+    "href": "slides/b01.html#interceptos-aleatorios",
+    "title": "Bloque 1: Introducción",
+    "section": "Interceptos aleatorios",
+    "text": "Interceptos aleatorios\n\n\n\n\nFigura 9: RICLPM bivariado.\n\n\n\n\nDe Hamaker et al. (2015), p.103.\n\n\nx e y son dos variables medidas en tres momentos de tiempo.\n\\[x_{it} = \\mu_{t} + \\kappa_{i} + p_{it}^{*} \\\\\ny_{it} = \\pi_{t} + \\omega_{i} + q_{it}^{*}\\]\n\nGrandes medias: \\(\\mu_{t}\\) y \\(\\pi_{t}\\).\n\n\nInterceptos aleatorios: \\(\\kappa_{i}\\) y \\(\\omega_{i}\\) representan las desviaciones individuales (rasgos) respecto a las grandes medias. Variables latentes.\n\n\n\\(p_{it}^{*}\\) y \\(q_{it}^{*}\\): representan las desviaciones temporales de los individuos respecto a sus puntajes esperados (ej. \\(\\mu_{t} + \\kappa_{i}\\))."
+  },
+  {
+    "objectID": "slides/b01.html#autorregresivos",
+    "href": "slides/b01.html#autorregresivos",
+    "title": "Bloque 1: Introducción",
+    "section": "Autorregresivos",
+    "text": "Autorregresivos\n\n\n\n\nFigura 9: RICLPM bivariado.\n\n\n\n\nDe Hamaker et al. (2015), p.103.\n\n\n\\(p_{it}^{*}\\) y \\(q_{it}^{*}\\) son modeladas como:\n\\[p_{it}^{*}=\\alpha_{t}^{*}p_{it-1}^{*}+\\beta_{t}^{*}q_{it-1}^{*}+u_{it}^{*}\\\\\n  q_{it}^{*}=\\delta_{t}^{*}q_{it-1}^{*}+\\gamma_{t}^{*}p_{it-1}^{*}+v{it}^{*}\\]\n\\(\\alpha_{t}^{*}\\), \\(\\delta_{t}^{*}\\): Parámetros autorregresivos.\nRepresentan el efecto carry-over dentro de las personas. El impacto de la desviación respecto a su puntaje esperado en una variable en t sobre la desviación temporal en la misma variable en t+1."
+  },
+  {
+    "objectID": "slides/b01.html#cross-lagged",
+    "href": "slides/b01.html#cross-lagged",
+    "title": "Bloque 1: Introducción",
+    "section": "Cross-lagged",
+    "text": "Cross-lagged\n\n\n\n\nFigura 9: RICLPM bivariado.\n\n\n\n\nDe Hamaker et al. (2015), p.103.\n\n\n\\(p_{it}^{*}\\) y \\(q_{it}^{*}\\) son modeladas como:\n\\[p_{it}^{*}=\\alpha_{t}^{*}p_{it-1}^{*}+\\beta_{t}^{*}q_{it-1}^{*}+u_{it}^{*}\\\\\n  q_{it}^{*}=\\delta_{t}^{*}q_{it-1}^{*}+\\gamma_{t}^{*}p_{it-1}^{*}+v{it}^{*}\\]\n\\(\\beta_{t}^{*}\\), \\(\\gamma_{t}^{*}\\): Parámetros cross-lagged.\nRepresentan el efecto spill-over dentro de las personas. El impacto de la desviación respecto a su puntaje esperado en una variable en t sobre la desviación temporal en la otra variable en t+1."
+  },
+  {
+    "objectID": "slides/b01.html#clpm-vs.-ri-clpm-1",
+    "href": "slides/b01.html#clpm-vs.-ri-clpm-1",
+    "title": "Bloque 1: Introducción",
+    "section": "CLPM vs. RI-CLPM",
+    "text": "CLPM vs. RI-CLPM\nRI-CLPM es propuesto como una aproximación SEM alternativa (Hamaker, Kuiper & Grasman, 2015).\n\nPerspectiva multinivel.\n\n\n\nDescompone la varianza de las variables observadas en:\n\nComponente inter-individuo (between): Varianza atribuible a diferencias entre rasgos individuales, entre individuos.\nComponente intra-individuo (within): Varianza atribuible al cambio de los individuos en el tiempo.\n\n\n\n\n\nPermiten controlar la estabilidad/cambio entre individuos de manera de que las relaciones cross-lagged reflejen únicamente la estabilidad/cambio intra-individuo."
+  },
+  {
+    "objectID": "slides/b01.html#componentes-1",
+    "href": "slides/b01.html#componentes-1",
+    "title": "Bloque 1: Introducción",
+    "section": "Componentes",
+    "text": "Componentes\n\n\n\n\nFigura 9: RICLPM bivariado.\n\n\n\n\nDe Hamaker et al. (2015), p.103.\n\n\n\\(p_{it}^{*}\\) y \\(q_{it}^{*}\\) son modeladas como:\n\\[p_{it}^{*}=\\alpha_{t}^{*}p_{it-1}^{*}+\\beta_{t}^{*}q_{it-1}^{*}+u_{it}^{*}\\\\\n  q_{it}^{*}=\\delta_{t}^{*}q_{it-1}^{*}+\\gamma_{t}^{*}p_{it-1}^{*}+v{it}^{*}\\]\n\\(\\alpha_{t}^{*}\\), \\(\\delta_{t}^{*}\\): Parámetros autorregresivos.\nRepresentan el efecto carry-over dentro de las personas. El impacto de la desviación respecto a su puntaje esperado en una variable en t sobre la desviación temporal en la misma variable en t+1."
+  },
+  {
+    "objectID": "slides/b01.html#componentes-2",
+    "href": "slides/b01.html#componentes-2",
+    "title": "Bloque 1: Introducción",
+    "section": "Componentes",
+    "text": "Componentes\n\n\n\n\nFigura 9: RICLPM bivariado.\n\n\n\n\nDe Hamaker et al. (2015), p.103.\n\n\n\\(p_{it}^{*}\\) y \\(q_{it}^{*}\\) son modeladas como:\n\\[p_{it}^{*}=\\alpha_{t}^{*}p_{it-1}^{*}+\\beta_{t}^{*}q_{it-1}^{*}+u_{it}^{*}\\\\\n  q_{it}^{*}=\\delta_{t}^{*}q_{it-1}^{*}+\\gamma_{t}^{*}p_{it-1}^{*}+v{it}^{*}\\]\n\\(\\beta_{t}^{*}\\), \\(\\gamma_{t}^{*}\\): Parámetros cross-lagged.\nRepresentan el efecto spill-over dentro de las personas. El impacto de la desviación respecto a su puntaje esperado en una variable en t sobre la desviación temporal en la otra variable en t+1."
+  },
+  {
+    "objectID": "slides/b01.html#contenidos",
+    "href": "slides/b01.html#contenidos",
+    "title": "Bloque 1: Introducción",
+    "section": "Contenidos",
+    "text": "Contenidos\n\nCross-Lagged Panel Models (CLPM)\n\nComponentes\nEstrategia analítica\n\nRandom Intercept Cross-Lagged Panel Models (RICLPM)\n\nDiferencias con CLPM\nComponentes\nConsideraciones importantes\nExtensiones\n\nReferencias"
+  },
+  {
+    "objectID": "slides/b02.html#contenidos",
+    "href": "slides/b02.html#contenidos",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Contenidos",
+    "text": "Contenidos\n\nModelo básico\nEstimación\nEstrategia analítica\nResultados e interpretación\nReferencias"
+  },
+  {
+    "objectID": "slides/b02.html#datos",
+    "href": "slides/b02.html#datos",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Datos",
+    "text": "Datos\nEstudio Longitudinal Social de Chile (ELSOC).\n5 Olas: 2016, 2017, 2018, 2019, 2021."
+  },
+  {
+    "objectID": "slides/b02.html#articulo",
+    "href": "slides/b02.html#articulo",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Articulo",
+    "text": "Articulo\nChayinska, Miranda & Gonzalez (2021). A longitudinal study of the bidirectional causal relationships between online political participation and offline collective action."
+  },
+  {
+    "objectID": "slides/b02.html#articulo-1",
+    "href": "slides/b02.html#articulo-1",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Articulo",
+    "text": "Articulo\nCon datos de ELSOC, replicaremos los resultados de Chayinska, Miranda & Gonzalez (2021), usando las siguientes variables:\n\nPARTICIPACION POLITICA ON-LINE:\n“Durante los últimos 12 meses, ¿con cuánta frecuencia usted ha… Usado las redes sociales para expresar su opinión en temas públicos?”\n1 = nunca a 5 = muy frecuentemente.\nPARTICIPACION OFF-LINE EN ACCIONES COLECTIVAS:\n“Durante los últimos 12 meses, ¿con cuánta frecuencia usted ha… Asistido a una marcha o manifestación política?”\n1 = nunca a 5 = muy frecuentemente."
+  },
+  {
+    "objectID": "slides/b01.html#referencias",
+    "href": "slides/b01.html#referencias",
+    "title": "Bloque 1: Introducción",
+    "section": "Referencias",
+    "text": "Referencias\n\n\n\n\n\n\nAsparouhov, T., & Muthén, B. (2021). Residual Structural Equation Models. Structural Equation Modeling: A Multidisciplinary Journal, 30(1), 1-31. https://doi.org/10.1080/10705511.2022.2074422\n\n\nChayinska, M., Miranda, D., & González, R. (2021). A longitudinal study of the bidirectional causal relationships between online political participation and offline collective action. Computers in Human Behavior, 121, 106810. https://doi.org/10.1016/j.chb.2021.106810\n\n\nChen, F. F. (2007). Sensitivity of Goodness of Fit Indexes to Lack of Measurement Invariance. Structural Equation Modeling: A Multidisciplinary Journal, 14(3), 464-504. https://doi.org/10.1080/10705510701301834\n\n\nCole, D. A., & Maxwell, S. E. (2003). Testing Mediational Models With Longitudinal Data: Questions and Tips in the Use of Structural Equation Modeling. Journal of Abnormal Psychology, 112(4), 558-577. https://doi.org/10.1037/0021-843X.112.4.558\n\n\nHamaker, E. L., Kuiper, R. M., & Grasman, R. P. P. P. (2015). A critique of the cross-lagged panel model. Psychological Methods, 20(1), 102-116. https://doi.org/10.1037/a0038889\n\n\nKeele, L. (2015). Causal Mediation Analysis: Warning! Assumptions Ahead. American Journal of Evaluation, 36(4), 500-513. https://doi.org/10.1177/1098214015594689\n\n\nMulder, J. D. (2023). Power Analysis for the Random Intercept Cross-Lagged Panel Model Using the powRICLPM R-Package. Structural Equation Modeling: A Multidisciplinary Journal, 30(4), 645-658. https://doi.org/10.1080/10705511.2022.2122467\n\n\nMulder, J. D., & Hamaker, E. L. (2021). Three Extensions of the Random Intercept Cross-Lagged Panel Model. Structural Equation Modeling: A Multidisciplinary Journal, 28(4), 638-648. https://doi.org/10.1080/10705511.2020.1784738\n\n\nOzkok, O., Vaulont, M. J., Zyphur, M. J., Zhang, Z., Preacher, K. J., Koval, P., & Zheng, Y. (2022). Interaction Effects in Cross-Lagged Panel Models: SEM with Latent Interactions Applied to Work-Family Conflict, Job Satisfaction, and Gender. Organizational Research Methods, 25(4), 673-715. https://doi.org/10.1177/10944281211043733\n\n\nRutkowski, L., & Svetina, D. (2014). Assessing the Hypothesis of Measurement Invariance in the Context of Large-Scale International Surveys. Educational and Psychological Measurement, 74(1), 31-57. https://doi.org/10.1177/0013164413498257\n\n\nSatorra, A., & Bentler, P. (2001). A scaled difference chi-square test statistic for moment structure analysis. Psychometrika, 66(4), 507-514. https://doi.org/10.1007/BF02296192\n\n\nSpeyer, L. G., Ushakova, A., Blakemore, S.-J., Murray, A. L., & Kievit, R. (2023). Testing for Within × Within and Between × Within Moderation Using Random Intercept Cross-Lagged Panel Models. Structural Equation Modeling: A Multidisciplinary Journal, 30(2), 315-327. https://doi.org/10.1080/10705511.2022.2096613"
+  },
+  {
+    "objectID": "slides/b02.html#referencias",
+    "href": "slides/b02.html#referencias",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Referencias",
+    "text": "Referencias\n\n\n\n\n\n\nChayinska, M., Miranda, D., & González, R. (2021). A longitudinal study of the bidirectional causal relationships between online political participation and offline collective action. Computers in Human Behavior, 121, 106810. https://doi.org/10.1016/j.chb.2021.106810\n\n\nChen, F. F. (2007). Sensitivity of Goodness of Fit Indexes to Lack of Measurement Invariance. Structural Equation Modeling: A Multidisciplinary Journal, 14(3), 464-504. https://doi.org/10.1080/10705510701301834\n\n\nRutkowski, L., & Svetina, D. (2014). Assessing the Hypothesis of Measurement Invariance in the Context of Large-Scale International Surveys. Educational and Psychological Measurement, 74(1), 31-57. https://doi.org/10.1177/0013164413498257"
+  },
+  {
+    "objectID": "slides/b02.html#variables-observadas",
+    "href": "slides/b02.html#variables-observadas",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Variables observadas",
+    "text": "Variables observadas\n\n\n\n\n\n\n\n\n\n\n\\(OFF_{it}\\)\nPuntajes observados en participación off-line para el individuo \\(i\\) en la ola \\(t\\).\n\\(ON_{it}\\)\nPuntajes observados en participación online para el individuo \\(i\\) en la ola \\(t\\)."
+  },
+  {
+    "objectID": "slides/b02.html#componentes-del-modelo",
+    "href": "slides/b02.html#componentes-del-modelo",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Componentes del modelo",
+    "text": "Componentes del modelo\n\n\n\n\nRI-CLPM conceptual de las asociaciones entre Participación Offline y Participación On-line\n\n\n\n\n\nVariables observadas\n\n\n\n\n\n\\(OFF_{it}\\)\nPuntajes observados en participación off-line para el individuo \\(i\\) en la ola \\(t\\).\n\\(ON_{it}\\)\nPuntajes observados en participación online para el individuo \\(i\\) en la ola \\(t\\)."
+  },
+  {
+    "objectID": "slides/b02.html#componentes-del-modelo-1",
+    "href": "slides/b02.html#componentes-del-modelo-1",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Componentes del modelo",
+    "text": "Componentes del modelo\n\n\n\n\nRI-CLPM conceptual de las asociaciones entre Participación Offline y Participación On-line\n\n\n\n\n\nComponente between o inter-individual\n\n\n\n\n\n\\(RI_{OFFi}\\)\nIntercepto aleatorio de participación off-line para el individuo \\(i\\).\n\\(RI_{ONi}\\)\nIntercepto aleatorio de participación online para el individuo \\(i\\).\n\n\n\nComponente between: desviaciones del individuo \\(i\\), en términos de su puntaje esperado, respecto a la gran media de cada variable."
+  },
+  {
+    "objectID": "slides/b02.html#componentes-del-modelo-2",
+    "href": "slides/b02.html#componentes-del-modelo-2",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Componentes del modelo",
+    "text": "Componentes del modelo\n\n\n\n\nRI-CLPM conceptual de las asociaciones entre Participación Offline y Participación On-line\n\n\n\n\n\nComponente within o intra-individual\n\n\n\n\n\n\\(OFF^{*}_{it}\\)\nDesviaciones temporales en \\(t\\) del individuo \\(i\\) respecto a sus puntajes esperados en participación off-line.\n\\(ON^{*}_{it}\\)\nDesviaciones temporales en \\(t\\) del individuo \\(i\\) respecto a sus puntajes esperados en participación online.\n\n\n\nComponente within: fluctuaciones intra-persona."
+  },
+  {
+    "objectID": "slides/b02.html#componentes-del-modelo-3",
+    "href": "slides/b02.html#componentes-del-modelo-3",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Componentes del modelo",
+    "text": "Componentes del modelo\n\n\n\n\nRI-CLPM conceptual de las asociaciones entre Participación Offline y Participación On-line\n\n\n\n\n\nComponente within o intra-individual\n\n\n\n\n\\(OFF^{*}_{i1}\\) y \\(ON^{*}_{i1}\\) son modelados como variables exógenas.\nSupuesto: los componentes within están correlacionados entre si en cada \\(t\\).\n\n\n\\(u_{it}\\) y \\(v_{it}\\) son los residuos.\nSupuesto: los residuos \\(u_{it}\\) y \\(v_{it}\\) están normalmente distribuidos y correlacionados entre sí, dentro de cada tiempo \\(t \\geq 2\\)."
+  },
+  {
+    "objectID": "slides/b02.html#lavaan",
+    "href": "slides/b02.html#lavaan",
+    "title": "Bloque 2: Estimación en R",
+    "section": "lavaan",
+    "text": "lavaan\nRosseel (2012). lavaan: An R Package for Structural Equation Modeling.\n\n\nRosseel, Y. (2012). lavaan: An R Package for Structural Equation Modeling. Journal of Statistical Software, 48(2), 1–36."
+  },
+  {
+    "objectID": "slides/b02.html#sintaxis-de-lavaan",
+    "href": "slides/b02.html#sintaxis-de-lavaan",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Sintaxis de lavaan",
+    "text": "Sintaxis de lavaan\nEn R, los RI-CLPM son estimados con la librería lavaan.\n\nSintaxis de modelo de lavaan y sus tipos de fórmula: \n\n\n\n\nTipo\nOperador\nMnemotecnia\n\n\n\n\nDefinición de variable latente\n=~\nes medido por\n\n\nRegresión\n~\nes predicho por\n\n\n(co)varianza (residual)\n~~\nestá correlacionado con\n\n\nIntercepto\n~ 1\nintercepto"
+  },
+  {
+    "objectID": "slides/b02.html#ejemplo-sintaxis",
+    "href": "slides/b02.html#ejemplo-sintaxis",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Ejemplo sintaxis",
+    "text": "Ejemplo sintaxis\nLa sintaxis de modelo de lavaan está constituida por una combinación de tipos de fórmula, cerrada por comillas simples.\n\nmodelo &lt;- ' \n             # regresiones\n             y1 + y2 ~ f1 + f2 + x1 + x2\n                  f1 ~ f2 + f3\n                  f2 ~ f3 + x1 + x2\n             # variables latentes\n               f1 =~ y1 + y2 + y3 \n               f2 =~ y4 + y5 + y6 \n               f3 =~ y7 + y8 + y9 + y10\n             # varianzas y covarianzas \n               y1 ~~ y1 \n               y1 ~~ y2 \n               f1 ~~ f2\n             # interceptos \n               y1 ~ 1 \n               f1 ~ 1\n          '"
+  },
+  {
+    "objectID": "slides/b02.html#previo-preparar-datos",
+    "href": "slides/b02.html#previo-preparar-datos",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Previo: Preparar datos",
+    "text": "Previo: Preparar datos\n\nlibrary(data.table)\n\n# Data\nload(url(\"https://dataverse.harvard.edu/api/access/datafile/6160173\"))\nsetDT(elsoc_long_2016_2021)\nelsoc_long_2016_2021 &lt;- elsoc_long_2016_2021[muestra==1,]\n# Long to wide\nelsoc &lt;- dcast(elsoc_long_2016_2021, idencuesta ~ ola, \n               value.var = c(\"c08_02\",\"c08_04\",\"m0_edad\",\"m01\",\"m0_sexo\"))\n# Select variables\nold &lt;- c(\"idencuesta\",paste0(\"c08_02_\",1:5),paste0(\"c08_04_\",1:5),\n         \"m0_edad_1\",\"m01_1\",\"m0_sexo_1\")\nnew &lt;- c(\"id\",paste0(\"off\",1:5),paste0(\"onl\",1:5),\"edad\",\"educ\",\"sexo\")\nsetnames(elsoc,old,new)\nelsoc &lt;- elsoc[, ..new]\n# Recode NAs\nelsoc &lt;- elsoc[, lapply(.SD, function(x) replace(x, \n                                            which(x %in% c(-666,-888,-999)), NA))]\n# Cleaning workspace\nrm(elsoc_long_2016_2021,old,new)\nelsoc &lt;- as.data.frame(elsoc)"
+  },
+  {
+    "objectID": "slides/b02.html#descriptivos",
+    "href": "slides/b02.html#descriptivos",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Descriptivos",
+    "text": "Descriptivos\n\nsummarytools::descr(elsoc[-1], order=\"p\", stats = \"common\", \n                    transpose = T, style = \"rmarkdown\", headings = F)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \nMean\nStd.Dev\nMin\nMedian\nMax\nN.Valid\nPct.Valid\n\n\n\n\noff1\n1.31\n0.78\n1.00\n1.00\n5.00\n2922.00\n99.80\n\n\noff2\n1.22\n0.64\n1.00\n1.00\n5.00\n2473.00\n84.46\n\n\noff3\n1.18\n0.59\n1.00\n1.00\n5.00\n2227.00\n76.06\n\n\noff4\n1.50\n0.99\n1.00\n1.00\n5.00\n2153.00\n73.53\n\n\noff5\n1.20\n0.64\n1.00\n1.00\n5.00\n1739.00\n59.39\n\n\nonl1\n1.71\n1.18\n1.00\n1.00\n5.00\n2918.00\n99.66\n\n\nonl2\n1.60\n1.09\n1.00\n1.00\n5.00\n2473.00\n84.46\n\n\nonl3\n1.59\n1.06\n1.00\n1.00\n5.00\n2225.00\n75.99\n\n\nonl4\n1.86\n1.28\n1.00\n1.00\n5.00\n2153.00\n73.53\n\n\nonl5\n1.84\n1.22\n1.00\n1.00\n5.00\n1739.00\n59.39\n\n\nedad\n46.09\n15.29\n18.00\n46.00\n88.00\n2927.00\n99.97\n\n\neduc\n5.26\n2.20\n1.00\n5.00\n10.00\n2925.00\n99.90\n\n\nsexo\n1.60\n0.49\n1.00\n2.00\n2.00\n2927.00\n99.97"
+  },
+  {
+    "objectID": "slides/b02.html#estimacion",
+    "href": "slides/b02.html#estimacion",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Estimacion",
+    "text": "Estimacion\nLa especificación del RI-CLPM cuenta con 4 partes:\n\n\nComponente between, los interceptos aleatorios.\nComponente within, fluctuaciones intra-individuos.\nRegresiones entre los componentes within.\nCovarianzas relevantes en los componentes between y within."
+  },
+  {
+    "objectID": "slides/b02.html#componente-between",
+    "href": "slides/b02.html#componente-between",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Componente between",
+    "text": "Componente between\n\n\nVariables latentes, con las medidas repetidas en \\(t\\) como indicadores.\nCargas factoriales fijadas en 1.\nSupuesto: Los interceptos aleatorios tienen igual influencia en cada ocasión\n\n\n\n\n\n\n\nbetween &lt;- ' \n# Crear los componentes between\n   RI_x =~ 1*off1 + 1*off2 + 1*off3 + 1*off4 + 1*off5\n   RI_y =~ 1*onl1 + 1*onl2 + 1*onl3 + 1*onl4 + 1*onl5\n           '"
+  },
+  {
+    "objectID": "slides/b02.html#componente-between-1",
+    "href": "slides/b02.html#componente-between-1",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Componente between",
+    "text": "Componente between\n\n\nFluctuaciones intra-individuos\nVariables latentes, explicadas por sus respectivas medidas observadas en cada ocasión.\nCargas factoriales fijadas  en 1.\n\n\n\n\n\n\n\nwithin  &lt;- '\n# Crear los componentes within\n   cx1 =~ 1*off1\n   cx2 =~ 1*off2\n   cx3 =~ 1*off3\n   cx4 =~ 1*off4\n   cx5 =~ 1*off5\n   cy1 =~ 1*onl1\n   cy2 =~ 1*onl2\n   cy3 =~ 1*onl3\n   cy4 =~ 1*onl4\n   cy5 =~ 1*onl5\n   \n# constreñir las varianzas del error de medicion a 0\n   off1 ~~ 0*off1\n   off2 ~~ 0*off2\n   off3 ~~ 0*off3\n   off4 ~~ 0*off4\n   off5 ~~ 0*off5\n   onl1 ~~ 0*onl1\n   onl2 ~~ 0*onl2\n   onl3 ~~ 0*onl3\n   onl4 ~~ 0*onl4\n   onl5 ~~ 0*onl5\n          '"
+  },
+  {
+    "objectID": "slides/b02.html#componente-within",
+    "href": "slides/b02.html#componente-within",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Componente within",
+    "text": "Componente within\n\n\nFluctuaciones intra-individuos\nVariables latentes, explicadas por sus respectivas medidas observadas en cada ocasión.\nCargas factoriales fijadas  en 1.\n\n\n\n\n\n\n\nwithin  &lt;- '\n# Crear los componentes within\n   cx1 =~ 1*off1\n   cx2 =~ 1*off2\n   cx3 =~ 1*off3\n   cx4 =~ 1*off4\n   cx5 =~ 1*off5\n   cy1 =~ 1*onl1\n   cy2 =~ 1*onl2\n   cy3 =~ 1*onl3\n   cy4 =~ 1*onl4\n   cy5 =~ 1*onl5\n   \n# constreñir las varianzas del error de medicion a 0\n   off1 ~~ 0*off1\n   off2 ~~ 0*off2\n   off3 ~~ 0*off3\n   off4 ~~ 0*off4\n   off5 ~~ 0*off5\n   onl1 ~~ 0*onl1\n   onl2 ~~ 0*onl2\n   onl3 ~~ 0*onl3\n   onl4 ~~ 0*onl4\n   onl5 ~~ 0*onl5\n          '"
+  },
+  {
+    "objectID": "slides/b02.html#efectos-lagged",
+    "href": "slides/b02.html#efectos-lagged",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Efectos lagged",
+    "text": "Efectos lagged\n\n\nRegresiones entre componentes within.\nEfectos lagged autorregresivos y crosslagged.\n\n\n\n\n\n\n\nefectos  &lt;- '\n# Estimar los efectos lagged\n    cx2 ~ cx1 + cy1\n    cx3 ~ cx2 + cy2\n    cx4 ~ cx3 + cy3\n    cx5 ~ cx4 + cy4\n    cy2 ~ cx1 + cy1\n    cy3 ~ cx2 + cy2\n    cy4 ~ cx3 + cy3\n    cy5 ~ cx4 + cy4\n           '"
+  },
+  {
+    "objectID": "slides/b02.html#covarianzas",
+    "href": "slides/b02.html#covarianzas",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Covarianzas",
+    "text": "Covarianzas\n\n\nCovarianzas relevantes en los componentes between y within.\nLos componentes within están correlacionados en cada \\(t\\), tanto en la primera ola (exógena) como sus residuos desde la ola 2.\n\n\n\n\n\n\n\ncovarianzas  &lt;- '\n# Covarianza entre los componentes within t=1\n    cx1 ~~ cy1\n   \n# Covarianzas entre los residuos componente within\n    cx2 ~~ cy2\n    cx3 ~~ cy3\n    cx4 ~~ cy4\n    cx5 ~~ cy5\n    \n# Varianzas residuales del componente within\n    cx1 ~~ cx1\n    cy1 ~~ cy1 \n    cx2 ~~ cx2\n    cy2 ~~ cy2 \n    cx3 ~~ cx3 \n    cy3 ~~ cy3 \n    cx4 ~~ cx4 \n    cy4 ~~ cy4 \n    cx5 ~~ cx5\n    cy5 ~~ cy5    \n    \n# Varianza y covarianza entre RI\n    RI_x ~~ RI_x\n    RI_y ~~ RI_y\n    RI_x ~~ RI_y\n    \n# Correlacion entre los RI y componentes within t=1 \n    RI_x ~~ 0*cx1\n    RI_x ~~ 0*cy1\n    RI_y ~~ 0*cx1\n    RI_y ~~ 0*cy1 \n           '"
+  },
+  {
+    "objectID": "slides/b02.html#covarianzas-1",
+    "href": "slides/b02.html#covarianzas-1",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Covarianzas",
+    "text": "Covarianzas\n\n\nCovarianzas relevantes en los componentes between y within.\nComponente between, los interceptos aleatorios están correlacionados.\nComponentes within en la primera ola y los interceptos aleatorios no están correlacionados.\n\n\n\n\n\n\n\ncovarianzas  &lt;- '\n# Covarianza entre los componentes within t=1\n    cx1 ~~ cy1\n   \n# Covarianzas entre los residuos componente within\n    cx2 ~~ cy2\n    cx3 ~~ cy3\n    cx4 ~~ cy4\n    cx5 ~~ cy5\n    \n# Varianzas residuales del componente within\n    cx1 ~~ cx1\n    cy1 ~~ cy1 \n    cx2 ~~ cx2\n    cy2 ~~ cy2 \n    cx3 ~~ cx3 \n    cy3 ~~ cy3 \n    cx4 ~~ cx4 \n    cy4 ~~ cy4 \n    cx5 ~~ cx5\n    cy5 ~~ cy5    \n    \n# Varianza y covarianza entre RI\n    RI_x ~~ RI_x\n    RI_y ~~ RI_y\n    RI_x ~~ RI_y\n    \n# Correlacion entre los RI y componentes within t=1 \n    RI_x ~~ 0*cx1\n    RI_x ~~ 0*cy1\n    RI_y ~~ 0*cx1\n    RI_y ~~ 0*cy1 \n           '"
+  },
+  {
+    "objectID": "slides/b02.html#modelo-basico-de-ri-clpm",
+    "href": "slides/b02.html#modelo-basico-de-ri-clpm",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Modelo basico de RI-CLPM",
+    "text": "Modelo basico de RI-CLPM\n\nmodelo_lavaan &lt;- '\n    # Crear los componentes between\n    RI_x =~ 1*off1 + 1*off2 + 1*off3 + 1*off4 + 1*off5\n    RI_y =~ 1*onl1 + 1*onl2 + 1*onl3 + 1*onl4 + 1*onl5\n    \n    # Crear los componentes within\n    cx1 =~ 1*off1\n    cx2 =~ 1*off2\n    cx3 =~ 1*off3\n    cx4 =~ 1*off4\n    cx5 =~ 1*off5\n    \n    cy1 =~ 1*onl1\n    cy2 =~ 1*onl2\n    cy3 =~ 1*onl3\n    cy4 =~ 1*onl4\n    cy5 =~ 1*onl5\n    \n    # constreñir las varianzas del error de medicion a cero\n    off1 ~~ 0*off1\n    off2 ~~ 0*off2\n    off3 ~~ 0*off3\n    off4 ~~ 0*off4\n    off5 ~~ 0*off5\n    onl1 ~~ 0*onl1\n    onl2 ~~ 0*onl2\n    onl3 ~~ 0*onl3\n    onl4 ~~ 0*onl4\n    onl5 ~~ 0*onl5\n    \n    # Estimar los efectos lagged\n    cx2 ~ cx1 + cy1\n    cx3 ~ cx2 + cy2\n    cx4 ~ cx3 + cy3\n    cx5 ~ cx4 + cy4\n    cy2 ~ cx1 + cy1\n    cy3 ~ cx2 + cy2\n    cy4 ~ cx3 + cy3\n    cy5 ~ cx4 + cy4\n    \n    # Estimar la covarianza entre los componentes within t=1\n    cx1 ~~ cy1\n    \n    # Estimar las covarianzas entre los residuos del componente within\n    cx2 ~~ cy2\n    cx3 ~~ cy3\n    cx4 ~~ cy4\n    cx5 ~~ cy5\n    \n    # Estimar las varianzas residuales del componente within\n    cx1 ~~ cx1 # Varianzas\n    cy1 ~~ cy1 \n    cx2 ~~ cx2 # Varianzas residuales\n    cy2 ~~ cy2 \n    cx3 ~~ cx3 \n    cy3 ~~ cy3 \n    cx4 ~~ cx4 \n    cy4 ~~ cy4 \n    cx5 ~~ cx5\n    cy5 ~~ cy5    \n    \n    # Estimar la varianza y covarianza entre los RI. \n    RI_x ~~ RI_x\n    RI_y ~~ RI_y\n    RI_x ~~ RI_y\n    \n    # Fijar la correlacion entre los RI y componentes within t=1 a cero \n    RI_x ~~ 0*cx1\n    RI_x ~~ 0*cy1\n    RI_y ~~ 0*cx1\n    RI_y ~~ 0*cy1 \n'"
+  },
+  {
+    "objectID": "slides/b02.html#estimacion-1",
+    "href": "slides/b02.html#estimacion-1",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Estimacion",
+    "text": "Estimacion\nEstimamos el objeto modelo_lavaan usando la función lavaan()\n\nlibrary(lavaan)\nfit_lavaan &lt;- lavaan(modelo_lavaan, data=elsoc, \n                     estimator = \"MLR\", missing = \"FIML\",\n                     meanstructure = T, int.ov.free = T)\n\n\nTambién es posible realizar la estimación usando un vector que contenga varios objetos:\n\nfit_lavaan2 &lt;- lavaan(model = c(between, within, efectos, covarianzas),\n                      data = elsoc, \n                      estimator = \"MLR\", missing = \"FIML\",\n                      meanstructure = T, int.ov.free = T)"
+  },
+  {
+    "objectID": "slides/b02.html#estimación-1",
+    "href": "slides/b02.html#estimación-1",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Estimación",
+    "text": "Estimación\nLa especificación del RI-CLPM cuenta con 4 partes:\n\n\nComponente between, los interceptos aleatorios.\nComponente within, fluctuaciones intra-individuos.\nRegresiones entre los componentes within.\nCovarianzas relevantes en los componentes between y within."
+  },
+  {
+    "objectID": "slides/b02.html#output",
+    "href": "slides/b02.html#output",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Output",
+    "text": "Output\n\nsummary(fit_lavaan, fit.measures = T, ci = T, standardized = T)\n\nlavaan 0.6.17 ended normally after 49 iterations\n\n  Estimator                                         ML\n  Optimization method                           NLMINB\n  Number of model parameters                        44\n\n                                                  Used       Total\n  Number of observations                          2927        2928\n  Number of missing patterns                        23            \n\nModel Test User Model:\n                                              Standard      Scaled\n  Test Statistic                               254.515     144.094\n  Degrees of freedom                                21          21\n  P-value (Chi-square)                           0.000       0.000\n  Scaling correction factor                                  1.766\n    Yuan-Bentler correction (Mplus variant)                       \n\nModel Test Baseline Model:\n\n  Test statistic                              6864.635    3632.030\n  Degrees of freedom                                45          45\n  P-value                                        0.000       0.000\n  Scaling correction factor                                  1.890\n\nUser Model versus Baseline Model:\n\n  Comparative Fit Index (CFI)                    0.966       0.966\n  Tucker-Lewis Index (TLI)                       0.927       0.926\n                                                                  \n  Robust Comparative Fit Index (CFI)                         0.964\n  Robust Tucker-Lewis Index (TLI)                            0.923\n\nLoglikelihood and Information Criteria:\n\n  Loglikelihood user model (H0)             -27262.196  -27262.196\n  Scaling correction factor                                  2.089\n      for the MLR correction                                      \n  Loglikelihood unrestricted model (H1)     -27134.938  -27134.938\n  Scaling correction factor                                  1.985\n      for the MLR correction                                      \n                                                                  \n  Akaike (AIC)                               54612.392   54612.392\n  Bayesian (BIC)                             54875.589   54875.589\n  Sample-size adjusted Bayesian (SABIC)      54735.784   54735.784\n\nRoot Mean Square Error of Approximation:\n\n  RMSEA                                          0.062       0.045\n  90 Percent confidence interval - lower         0.055       0.040\n  90 Percent confidence interval - upper         0.069       0.050\n  P-value H_0: RMSEA &lt;= 0.050                    0.002       0.949\n  P-value H_0: RMSEA &gt;= 0.080                    0.000       0.000\n                                                                  \n  Robust RMSEA                                               0.074\n  90 Percent confidence interval - lower                     0.062\n  90 Percent confidence interval - upper                     0.085\n  P-value H_0: Robust RMSEA &lt;= 0.050                         0.000\n  P-value H_0: Robust RMSEA &gt;= 0.080                         0.191\n\nStandardized Root Mean Square Residual:\n\n  SRMR                                           0.061       0.061\n\nParameter Estimates:\n\n  Standard errors                             Sandwich\n  Information bread                           Observed\n  Observed information based on                Hessian\n\nLatent Variables:\n                   Estimate  Std.Err  z-value  P(&gt;|z|) ci.lower ci.upper\n  RI_x =~                                                               \n    off1              1.000                               1.000    1.000\n    off2              1.000                               1.000    1.000\n    off3              1.000                               1.000    1.000\n    off4              1.000                               1.000    1.000\n    off5              1.000                               1.000    1.000\n  RI_y =~                                                               \n    onl1              1.000                               1.000    1.000\n    onl2              1.000                               1.000    1.000\n    onl3              1.000                               1.000    1.000\n    onl4              1.000                               1.000    1.000\n    onl5              1.000                               1.000    1.000\n  cx1 =~                                                                \n    off1              1.000                               1.000    1.000\n  cx2 =~                                                                \n    off2              1.000                               1.000    1.000\n  cx3 =~                                                                \n    off3              1.000                               1.000    1.000\n  cx4 =~                                                                \n    off4              1.000                               1.000    1.000\n  cx5 =~                                                                \n    off5              1.000                               1.000    1.000\n  cy1 =~                                                                \n    onl1              1.000                               1.000    1.000\n  cy2 =~                                                                \n    onl2              1.000                               1.000    1.000\n  cy3 =~                                                                \n    onl3              1.000                               1.000    1.000\n  cy4 =~                                                                \n    onl4              1.000                               1.000    1.000\n  cy5 =~                                                                \n    onl5              1.000                               1.000    1.000\n   Std.lv  Std.all\n                  \n    0.373    0.492\n    0.373    0.577\n    0.373    0.625\n    0.373    0.395\n    0.373    0.557\n                  \n    0.739    0.631\n    0.739    0.676\n    0.739    0.691\n    0.739    0.595\n    0.739    0.620\n                  \n    0.659    0.871\n                  \n    0.527    0.817\n                  \n    0.465    0.781\n                  \n    0.866    0.919\n                  \n    0.555    0.830\n                  \n    0.908    0.776\n                  \n    0.804    0.737\n                  \n    0.772    0.723\n                  \n    0.998    0.804\n                  \n    0.936    0.785\n\nRegressions:\n                   Estimate  Std.Err  z-value  P(&gt;|z|) ci.lower ci.upper\n  cx2 ~                                                                 \n    cx1               0.138    0.042    3.307    0.001    0.056    0.219\n    cy1              -0.023    0.020   -1.131    0.258   -0.063    0.017\n  cx3 ~                                                                 \n    cx2               0.138    0.056    2.448    0.014    0.027    0.248\n    cy2              -0.024    0.024   -1.032    0.302   -0.071    0.022\n  cx4 ~                                                                 \n    cx3               0.241    0.084    2.870    0.004    0.077    0.406\n    cy3               0.134    0.041    3.288    0.001    0.054    0.213\n  cx5 ~                                                                 \n    cx4               0.175    0.031    5.698    0.000    0.115    0.235\n    cy4               0.029    0.021    1.401    0.161   -0.012    0.070\n  cy2 ~                                                                 \n    cx1               0.007    0.046    0.150    0.881   -0.084    0.098\n    cy1              -0.001    0.036   -0.040    0.968   -0.072    0.069\n  cy3 ~                                                                 \n    cx2               0.113    0.066    1.711    0.087   -0.016    0.241\n    cy2               0.075    0.043    1.724    0.085   -0.010    0.160\n  cy4 ~                                                                 \n    cx3               0.006    0.077    0.076    0.940   -0.146    0.158\n    cy3               0.253    0.048    5.286    0.000    0.159    0.346\n  cy5 ~                                                                 \n    cx4               0.097    0.033    2.926    0.003    0.032    0.162\n    cy4               0.297    0.033    8.879    0.000    0.231    0.362\n   Std.lv  Std.all\n                  \n    0.172    0.172\n   -0.039   -0.039\n                  \n    0.156    0.156\n   -0.042   -0.042\n                  \n    0.130    0.130\n    0.119    0.119\n                  \n    0.273    0.273\n    0.052    0.052\n                  \n    0.006    0.006\n   -0.002   -0.002\n                  \n    0.077    0.077\n    0.078    0.078\n                  \n    0.003    0.003\n    0.195    0.195\n                  \n    0.090    0.090\n    0.317    0.317\n\nCovariances:\n                   Estimate  Std.Err  z-value  P(&gt;|z|) ci.lower ci.upper\n  cx1 ~~                                                                \n    cy1               0.163    0.024    6.894    0.000    0.116    0.209\n .cx2 ~~                                                                \n   .cy2               0.111    0.020    5.613    0.000    0.072    0.150\n .cx3 ~~                                                                \n   .cy3               0.062    0.018    3.535    0.000    0.028    0.097\n .cx4 ~~                                                                \n   .cy4               0.244    0.029    8.431    0.000    0.187    0.300\n .cx5 ~~                                                                \n   .cy5               0.022    0.017    1.250    0.211   -0.012    0.056\n  RI_x ~~                                                               \n    RI_y              0.183    0.018    9.926    0.000    0.147    0.219\n    cx1               0.000                               0.000    0.000\n    cy1               0.000                               0.000    0.000\n  RI_y ~~                                                               \n    cx1               0.000                               0.000    0.000\n    cy1               0.000                               0.000    0.000\n   Std.lv  Std.all\n                  \n    0.272    0.272\n                  \n    0.266    0.266\n                  \n    0.176    0.176\n                  \n    0.293    0.293\n                  \n    0.047    0.047\n                  \n    0.664    0.664\n    0.000    0.000\n    0.000    0.000\n                  \n    0.000    0.000\n    0.000    0.000\n\nIntercepts:\n                   Estimate  Std.Err  z-value  P(&gt;|z|) ci.lower ci.upper\n   .off1              1.313    0.014   91.514    0.000    1.285    1.341\n   .off2              1.217    0.013   95.154    0.000    1.192    1.243\n   .off3              1.189    0.012   96.373    0.000    1.164    1.213\n   .off4              1.501    0.021   72.073    0.000    1.460    1.542\n   .off5              1.189    0.014   84.928    0.000    1.161    1.216\n   .onl1              1.714    0.022   78.689    0.000    1.671    1.756\n   .onl2              1.609    0.022   74.560    0.000    1.566    1.651\n   .onl3              1.607    0.022   73.666    0.000    1.564    1.649\n   .onl4              1.865    0.027   70.135    0.000    1.813    1.917\n   .onl5              1.816    0.027   67.613    0.000    1.763    1.868\n   Std.lv  Std.all\n    1.313    1.734\n    1.217    1.886\n    1.189    1.994\n    1.501    1.592\n    1.189    1.778\n    1.714    1.464\n    1.609    1.473\n    1.607    1.504\n    1.865    1.502\n    1.816    1.523\n\nVariances:\n                   Estimate  Std.Err  z-value  P(&gt;|z|) ci.lower ci.upper\n   .off1              0.000                               0.000    0.000\n   .off2              0.000                               0.000    0.000\n   .off3              0.000                               0.000    0.000\n   .off4              0.000                               0.000    0.000\n   .off5              0.000                               0.000    0.000\n   .onl1              0.000                               0.000    0.000\n   .onl2              0.000                               0.000    0.000\n   .onl3              0.000                               0.000    0.000\n   .onl4              0.000                               0.000    0.000\n   .onl5              0.000                               0.000    0.000\n    cx1               0.435    0.030   14.387    0.000    0.375    0.494\n    cy1               0.824    0.036   22.643    0.000    0.753    0.896\n   .cx2               0.270    0.022   12.180    0.000    0.227    0.314\n   .cy2               0.647    0.038   17.004    0.000    0.572    0.722\n   .cx3               0.212    0.021    9.857    0.000    0.170    0.254\n   .cy3               0.587    0.033   17.737    0.000    0.522    0.652\n   .cx4               0.723    0.037   19.525    0.000    0.650    0.795\n   .cy4               0.958    0.039   24.393    0.000    0.881    1.035\n   .cx5               0.282    0.026   10.931    0.000    0.231    0.332\n   .cy5               0.765    0.038   20.171    0.000    0.691    0.839\n    RI_x              0.139    0.019    7.377    0.000    0.102    0.176\n    RI_y              0.546    0.030   18.456    0.000    0.488    0.604\n   Std.lv  Std.all\n    0.000    0.000\n    0.000    0.000\n    0.000    0.000\n    0.000    0.000\n    0.000    0.000\n    0.000    0.000\n    0.000    0.000\n    0.000    0.000\n    0.000    0.000\n    0.000    0.000\n    1.000    1.000\n    1.000    1.000\n    0.973    0.973\n    1.000    1.000\n    0.977    0.977\n    0.985    0.985\n    0.963    0.963\n    0.962    0.962\n    0.914    0.914\n    0.874    0.874\n    1.000    1.000\n    1.000    1.000"
+  },
+  {
+    "objectID": "slides/b02.html#hipótesis",
+    "href": "slides/b02.html#hipótesis",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Hipótesis",
+    "text": "Hipótesis\n\n\n\n\n\nFigura 1: Independence hypothesis\n\n\n\n\n\n\n\nFigura 2: Spillover hypothesis\n\n\n\n\n\n\n\n\n\nFigura 3: Facilitation hypothesis\n\n\n\n\n\n\n\nFigura 4: Reciprocity hypothesis"
+  },
+  {
+    "objectID": "slides/b02.html#hipótesis-1",
+    "href": "slides/b02.html#hipótesis-1",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Hipótesis",
+    "text": "Hipótesis\n\n\n\n\n\nFigura 1: Independence hypothesis\n\n\n\n\n\n\n\nFigura 2: Spillover hypothesis\n\n\n\n\n\n\n\n\n\nFigura 3: Facilitation hypothesis\n\n\n\n\n\n\n\nFigura 4: Reciprocity hypothesis"
+  },
+  {
+    "objectID": "slides/b02.html#modelos-anidados",
+    "href": "slides/b02.html#modelos-anidados",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Modelos anidados",
+    "text": "Modelos anidados\n\nLa estimación usualmente sigue una estrategia de modelos anidados entre los cuales se compara su bondad de ajuste.\n\n\n\nPara testear las hipótesis en torno a la direccionalidad de las relaciones estimamos:\n\nMODELO A: sólo los paths autorregresivos.\nMODELO B: paths autorregresivos + cross-lagged (forward).\nMODELO C: paths autorregresivos + cross-lagged (backward).\nMODELO D bidireccional, paths autorregresivos + cross-lagged.\n\n\n\n\n\nPara testear la estabilidad de los efectos entre los constructos en el tiempo, adicionalmente, comparamos dos versiones de cada uno de estos modelos: Una versión estimada libremente (1) y una versión constriñendo los efectos en el tiempo (2)."
+  },
+  {
+    "objectID": "slides/b02.html#sintaxis",
+    "href": "slides/b02.html#sintaxis",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Sintaxis",
+    "text": "Sintaxis"
+  },
+  {
+    "objectID": "slides/b02.html#modelos-anidados-sintaxis",
+    "href": "slides/b02.html#modelos-anidados-sintaxis",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Modelos anidados: sintaxis",
+    "text": "Modelos anidados: sintaxis\n\nEn lavaan, las restricciones al modelo se realizan usando una sintaxis de pre-multiplicación:\n\nSe agrega a cada parámetro un numero al cual queremos fijarlo o una etiqueta, junto a un asterisco, y luego se indica el parámetro en la especificación del modelo.\nPara constreñir la igualdad entre parámetros se usa el mismo numero o la misma etiqueta.\n\n\n\nefectos2 &lt;- '\n            # Estimar los efectos lagged (constreñidos en el tiempo)\n            cx2 ~ a*cx1 + d*cy1\n            cx3 ~ a*cx2 + d*cy2\n            cx4 ~ a*cx3 + d*cy3\n            cx5 ~ a*cx4 + d*cy4\n            cy2 ~ c*cx1 + b*cy1\n            cy3 ~ c*cx2 + b*cy2\n            cy4 ~ c*cx3 + b*cy3\n            cy5 ~ c*cx4 + b*cy4\n            '"
+  },
+  {
+    "objectID": "slides/b02.html#volvamos-al-modelo-básico",
+    "href": "slides/b02.html#volvamos-al-modelo-básico",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Volvamos al modelo básico…",
+    "text": "Volvamos al modelo básico…\n\nLos modelos A, B, C y D comparten la misma especificación del componente between, componente within y covarianzas.\n\nbwcomp &lt;- ' \n           # Crear los componentes between\n            RI_x =~ 1*off1 + 1*off2 + 1*off3 + 1*off4 + 1*off5\n            RI_y =~ 1*onl1 + 1*onl2 + 1*onl3 + 1*onl4 + 1*onl5\n            \n            # Crear los componentes within\n            cx1 =~ 1*off1\n            cx2 =~ 1*off2\n            cx3 =~ 1*off3\n            cx4 =~ 1*off4\n            cx5 =~ 1*off5\n            \n            cy1 =~ 1*onl1\n            cy2 =~ 1*onl2\n            cy3 =~ 1*onl3\n            cy4 =~ 1*onl4\n            cy5 =~ 1*onl5\n            \n            # constreñir las varianzas del error de medicion a cero\n            off1 ~~ 0*off1\n            off2 ~~ 0*off2\n            off3 ~~ 0*off3\n            off4 ~~ 0*off4\n            off5 ~~ 0*off5\n            \n            onl1 ~~ 0*onl1\n            onl2 ~~ 0*onl2\n            onl3 ~~ 0*onl3\n            onl4 ~~ 0*onl4\n            onl5 ~~ 0*onl5\n          '"
+  },
+  {
+    "objectID": "slides/b02.html#volvamos-al-modelo-básico-1",
+    "href": "slides/b02.html#volvamos-al-modelo-básico-1",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Volvamos al modelo básico…",
+    "text": "Volvamos al modelo básico…\n\nLos modelos A, B, C y D comparten la misma especificación del componente between, componente within y covarianzas.\n\nvarcov &lt;- ' \n           # Estimar la covarianza entre los componentes within t=1\n           cx1 ~~ cy1\n           \n           # Estimar las covarianzas entre los residuos del componente within\n           cx2 ~~ cy2\n           cx3 ~~ cy3\n           cx4 ~~ cy4\n           cx5 ~~ cy5\n           \n           # Estimar las varianzas residuales del componente within\n           cx1 ~~ cx1 # Varianzas\n           cy1 ~~ cy1 \n           cx2 ~~ cx2 # Varianzas residuales\n           cy2 ~~ cy2 \n           cx3 ~~ cx3 \n           cy3 ~~ cy3 \n           cx4 ~~ cx4 \n           cy4 ~~ cy4 \n           cx5 ~~ cx5\n           cy5 ~~ cy5 \n           \n           # Estimar la varianza y covarianza entre los RI. \n           RI_x ~~ RI_x\n           RI_y ~~ RI_y\n           RI_x ~~ RI_y\n           \n           # Fijar la correlacion entre los RI y componentes within t=1 a cero \n           RI_x ~~ 0*cx1\n           RI_x ~~ 0*cy1\n           RI_y ~~ 0*cx1\n           RI_y ~~ 0*cy1 \n          '"
+  },
+  {
+    "objectID": "slides/b02.html#efectos-modelo-a",
+    "href": "slides/b02.html#efectos-modelo-a",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Efectos: Modelo A",
+    "text": "Efectos: Modelo A\n\n\n\nModelo A (solo paths autorregresivos),  sin constreñir\n\n\n\n\na1 &lt;- ' # Sin constreñir\n           cx2 ~ cx1\n           cx3 ~ cx2\n           cx4 ~ cx3\n           cx5 ~ cx4\n           cy2 ~ cy1\n           cy3 ~ cy2\n           cy4 ~ cy3\n           cy5 ~ cy4\n          '\n\na2 &lt;- ' # Constreñido\n           cx2 ~ a*cx1\n           cx3 ~ a*cx2\n           cx4 ~ a*cx3\n           cx5 ~ a*cx4\n           cy2 ~ d*cy1\n           cy3 ~ d*cy2\n           cy4 ~ d*cy3\n           cy5 ~ d*cy4\n          '"
+  },
+  {
+    "objectID": "slides/b02.html#efectos-modelo-a-1",
+    "href": "slides/b02.html#efectos-modelo-a-1",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Efectos: Modelo A",
+    "text": "Efectos: Modelo A\n\n\n\nModelo A (solo paths autorregresivos),  constreñido\n\n\n\n\na1 &lt;- ' # Sin constreñir\n           cx2 ~ cx1\n           cx3 ~ cx2\n           cx4 ~ cx3\n           cx5 ~ cx4\n           cy2 ~ cy1\n           cy3 ~ cy2\n           cy4 ~ cy3\n           cy5 ~ cy4\n          '\n\na2 &lt;- ' # Constreñido\n           cx2 ~ a*cx1\n           cx3 ~ a*cx2\n           cx4 ~ a*cx3\n           cx5 ~ a*cx4\n           cy2 ~ d*cy1\n           cy3 ~ d*cy2\n           cy4 ~ d*cy3\n           cy5 ~ d*cy4\n          '"
+  },
+  {
+    "objectID": "slides/b02.html#efectos-modelo-b",
+    "href": "slides/b02.html#efectos-modelo-b",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Efectos: Modelo B",
+    "text": "Efectos: Modelo B\n\n\n\nModelo B unidireccional (forward),  sin constreñir\n\n\n\n\nb1 &lt;- ' # Sin constreñir\n           cx2 ~ cx1\n           cx3 ~ cx2 \n           cx4 ~ cx3\n           cx5 ~ cx4\n           cy2 ~ cx1 + cy1\n           cy3 ~ cx2 + cy2\n           cy4 ~ cx3 + cy3\n           cy5 ~ cx4 + cy4\n          '\n\nb2 &lt;- ' # Constreñido\n           cx2 ~ a*cx1\n           cx3 ~ a*cx2\n           cx4 ~ a*cx3\n           cx5 ~ a*cx4\n           cy2 ~ c*cx1 + d*cy1\n           cy3 ~ c*cx2 + d*cy2\n           cy4 ~ c*cx3 + d*cy3\n           cy5 ~ c*cx4 + d*cy4\n          '"
+  },
+  {
+    "objectID": "slides/b02.html#efectos-modelo-b-1",
+    "href": "slides/b02.html#efectos-modelo-b-1",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Efectos: Modelo B",
+    "text": "Efectos: Modelo B\n\n\n\nModelo B unidireccional (forward),  contreñido\n\n\n\n\nb1 &lt;- ' # Sin constreñir\n           cx2 ~ cx1\n           cx3 ~ cx2 \n           cx4 ~ cx3\n           cx5 ~ cx4\n           cy2 ~ cx1 + cy1\n           cy3 ~ cx2 + cy2\n           cy4 ~ cx3 + cy3\n           cy5 ~ cx4 + cy4\n          '\n\nb2 &lt;- ' # Constreñido\n           cx2 ~ a*cx1\n           cx3 ~ a*cx2\n           cx4 ~ a*cx3\n           cx5 ~ a*cx4\n           cy2 ~ c*cx1 + d*cy1\n           cy3 ~ c*cx2 + d*cy2\n           cy4 ~ c*cx3 + d*cy3\n           cy5 ~ c*cx4 + d*cy4\n          '"
+  },
+  {
+    "objectID": "slides/b02.html#efectos-modelo-c",
+    "href": "slides/b02.html#efectos-modelo-c",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Efectos: Modelo C",
+    "text": "Efectos: Modelo C\n\n\n\nModelo C unidireccional (backward),  sin contreñir\n\n\n\n\nc1 &lt;- ' # Sin constreñir\n           cx2 ~ cx1 + cy1\n           cx3 ~ cx2 + cy2 \n           cx4 ~ cx3 + cy3\n           cx5 ~ cx4 + cy4\n           cy2 ~ cy1\n           cy3 ~ cy2\n           cy4 ~ cy3\n           cy5 ~ cy4\n          '\n\nc2 &lt;- ' # Constreñido\n           cx2 ~ a*cx1 + b*cy1\n           cx3 ~ a*cx2 + b*cy2 \n           cx4 ~ a*cx3 + b*cy3\n           cx5 ~ a*cx4 + b*cy4\n           cy2 ~ d*cy1\n           cy3 ~ d*cy2\n           cy4 ~ d*cy3\n           cy5 ~ d*cy4\n          '"
+  },
+  {
+    "objectID": "slides/b02.html#efectos-modelo-c-1",
+    "href": "slides/b02.html#efectos-modelo-c-1",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Efectos: Modelo C",
+    "text": "Efectos: Modelo C\n\n\n\nModelo C unidireccional (backward),  constreñido\n\n\n\n\nc1 &lt;- ' # Sin constreñir\n           cx2 ~ cx1 + cy1\n           cx3 ~ cx2 + cy2 \n           cx4 ~ cx3 + cy3\n           cx5 ~ cx4 + cy4\n           cy2 ~ cy1\n           cy3 ~ cy2\n           cy4 ~ cy3\n           cy5 ~ cy4\n          '\n\nc2 &lt;- ' # Constreñido\n           cx2 ~ a*cx1 + b*cy1\n           cx3 ~ a*cx2 + b*cy2 \n           cx4 ~ a*cx3 + b*cy3\n           cx5 ~ a*cx4 + b*cy4\n           cy2 ~ d*cy1\n           cy3 ~ d*cy2\n           cy4 ~ d*cy3\n           cy5 ~ d*cy4\n          '"
+  },
+  {
+    "objectID": "slides/b02.html#efectos-modelo-d",
+    "href": "slides/b02.html#efectos-modelo-d",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Efectos: Modelo D",
+    "text": "Efectos: Modelo D\n\n\n\nModelo D bidireccional,  sin constreñir\n\n\n\n\nd1 &lt;- ' # Sin constreñir\n           cx2 ~ cx1 + cy1\n           cx3 ~ cx2 + cy2 \n           cx4 ~ cx3 + cy3\n           cx5 ~ cx4 + cy4\n           cy2 ~ cx1 + cy1\n           cy3 ~ cx2 + cy2\n           cy4 ~ cx3 + cy3\n           cy5 ~ cx4 + cy4\n          '\n\nd2 &lt;- ' # Constreñido\n           cx2 ~ a*cx1 + b*cy1\n           cx3 ~ a*cx2 + b*cy2 \n           cx4 ~ a*cx3 + b*cy3\n           cx5 ~ a*cx4 + b*cy4\n           cy2 ~ c*cx1 + d*cy1\n           cy3 ~ c*cx2 + d*cy2\n           cy4 ~ c*cx3 + d*cy3\n           cy5 ~ c*cx4 + d*cy4\n          '"
+  },
+  {
+    "objectID": "slides/b02.html#efectos-modelo-d-1",
+    "href": "slides/b02.html#efectos-modelo-d-1",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Efectos: Modelo D",
+    "text": "Efectos: Modelo D\n\n\n\nModelo D bidireccional,  constreñido\n\n\n\n\nd1 &lt;- ' # Sin constreñir\n           cx2 ~ cx1 + cy1\n           cx3 ~ cx2 + cy2 \n           cx4 ~ cx3 + cy3\n           cx5 ~ cx4 + cy4\n           cy2 ~ cx1 + cy1\n           cy3 ~ cx2 + cy2\n           cy4 ~ cx3 + cy3\n           cy5 ~ cx4 + cy4\n          '\n\nd2 &lt;- ' # Constreñido\n           cx2 ~ a*cx1 + b*cy1\n           cx3 ~ a*cx2 + b*cy2 \n           cx4 ~ a*cx3 + b*cy3\n           cx5 ~ a*cx4 + b*cy4\n           cy2 ~ c*cx1 + d*cy1\n           cy3 ~ c*cx2 + d*cy2\n           cy4 ~ c*cx3 + d*cy3\n           cy5 ~ c*cx4 + d*cy4\n          '"
+  },
+  {
+    "objectID": "slides/b02.html#estimación-2",
+    "href": "slides/b02.html#estimación-2",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Estimación",
+    "text": "Estimación\nEstimamos el objeto modelo_lavaan usando la función lavaan()\n\nlibrary(lavaan)\nfit_lavaan &lt;- lavaan(modelo_lavaan, data=elsoc, \n                     estimator = \"MLR\", missing = \"FIML\",\n                     meanstructure = T, int.ov.free = T)\n\n\nTambién es posible realizar la estimación usando un vector que contenga varios objetos:\n\nfit_lavaan2 &lt;- lavaan(model = c(between, within, efectos, covarianzas),\n                      data = elsoc, \n                      estimator = \"MLR\", missing = \"FIML\",\n                      meanstructure = T, int.ov.free = T)"
+  },
+  {
+    "objectID": "slides/b02.html#bondad-de-ajuste",
+    "href": "slides/b02.html#bondad-de-ajuste",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Bondad de ajuste",
+    "text": "Bondad de ajuste\n\nExtraemos las medidas de ajuste usando la función fitMeasures.\n\n\ngofdt &lt;- list()\nfor (i in names(fit)){\n  x &lt;- fitMeasures(fit[[i]])[c(\"chisq.scaled\", \"df.scaled\",\n                               \"pvalue.scaled\", \"cfi.scaled\",\n                               \"tli.scaled\", \"rmsea.scaled\",\n                               \"srmr_mplus\", \"aic\",\n                               \"bic\", \"bic2\",\n                               \"logl\", \"npar\",\n                               \"scaling.factor.h0\")]\n  gofdt[[i]] &lt;- setNames(as.numeric(x),\n                       c(\"X2\",\"df\",\n                         \"pvalue\",\"CFI\",\n                         \"TLI\",\"RMSEA\",\n                         \"SRMR\",\"AIC\",\n                         \"BIC\",\"aBIC\",\n                         \"LL\",\"par\",\n                         \"LLcorrectf\"))}\ngofdt &lt;- data.table(m=names(gofdt),dplyr::bind_rows(gofdt))"
+  },
+  {
+    "objectID": "slides/b02.html#bondad-de-ajuste-1",
+    "href": "slides/b02.html#bondad-de-ajuste-1",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Bondad de ajuste",
+    "text": "Bondad de ajuste\n\nExtraemos las medidas de ajuste usando la función fitMeasures.\n\nkableExtra::kable(gofdt,digits = 2,\n                  format = \"html\", table.attr = \"style='font-size: 25px;'\")\n\n\n\n\nm\nX2\ndf\npvalue\nCFI\nTLI\nRMSEA\nSRMR\nAIC\nBIC\naBIC\nLL\npar\nLLcorrectf\n\n\n\n\na1\n171.31\n29\n0\n0.96\n0.94\n0.04\n0.06\n54636.95\n54852.29\n54737.91\n-27282.47\n36\n2.20\n\n\na2\n202.25\n35\n0\n0.95\n0.94\n0.04\n0.07\n54697.19\n54876.64\n54781.32\n-27318.60\n30\n1.82\n\n\nb1\n161.48\n25\n0\n0.96\n0.93\n0.04\n0.06\n54631.73\n54871.00\n54743.91\n-27275.87\n40\n2.13\n\n\nb2\n197.36\n34\n0\n0.95\n0.94\n0.04\n0.07\n54691.56\n54876.99\n54778.49\n-27314.78\n31\n1.68\n\n\nc1\n154.38\n25\n0\n0.96\n0.94\n0.04\n0.06\n54620.69\n54859.96\n54732.86\n-27270.34\n40\n2.13\n\n\nc2\n200.90\n34\n0\n0.95\n0.94\n0.04\n0.07\n54698.89\n54884.32\n54785.82\n-27318.44\n31\n1.67\n\n\nd1\n144.09\n21\n0\n0.97\n0.93\n0.04\n0.06\n54612.39\n54875.59\n54735.78\n-27262.20\n44\n2.09\n\n\nd2\n195.39\n33\n0\n0.95\n0.94\n0.04\n0.07\n54691.65\n54883.07\n54781.39\n-27313.83\n32\n1.56"
+  },
+  {
+    "objectID": "slides/b02.html#bondad-de-ajuste-2",
+    "href": "slides/b02.html#bondad-de-ajuste-2",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Bondad de ajuste",
+    "text": "Bondad de ajuste\n\ngof.comp  = function(data, pairs, measures = c(\"CFI\", \"TLI\", \"RMSEA\", \"SRMR\", \"AIC\", \n                                               \"BIC\", \"aBIC\", \"par\", \"LL\")){\n  comp &lt;- list()\n  for (i in 1:length(pairs)){\n    gof &lt;- data\n    nest &lt;- pairs[[i]][1]\n    full &lt;- pairs[[i]][2]\n    delta &lt;- NULL\n    for (k in measures){\n      delta[paste0(k,\"_D\")] &lt;- gof[m==nest, get(k)] - gof[m==full, get(k)] }\n    par_LLcorf_nest &lt;- gof[m==nest,par]*gof[m==nest,LLcorrectf]\n    par_LLcorf_full &lt;- gof[m==full,par]*gof[m==full,LLcorrectf]\n    delta[\"CD\"] &lt;- (par_LLcorf_nest-par_LLcorf_full)/delta[\"par_D\"]\n    delta[\"TRd\"] &lt;- (-2*delta[\"LL_D\"])/delta[\"CD\"]\n    delta[\"TRd_df\"] &lt;- gof[m==full, \"par\"] - gof[m==nest, \"par\"]\n    delta[\"TRd_pvalue\"] &lt;- pchisq(as.numeric(delta[\"TRd\"]),\n                                  as.numeric(delta[\"TRd_df\"]), lower.tail = F)\n    comp[[paste0(nest,\" vs. \",full,sep=\"\")]] &lt;- delta }\n  comp &lt;- data.table(comp=names(comp),dplyr::bind_rows(comp))\n  return(comp)\n  }"
+  },
+  {
+    "objectID": "slides/b02.html#comparacion-de-modelos",
+    "href": "slides/b02.html#comparacion-de-modelos",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Comparacion de modelos",
+    "text": "Comparacion de modelos\n\ngof.comp  = function(data, pairs, measures = c(\"CFI\", \"TLI\", \"RMSEA\", \"SRMR\", \"AIC\", \n                                               \"BIC\", \"aBIC\", \"par\", \"LL\")){\n  comp &lt;- list()\n  for (i in 1:length(pairs)){\n    gof &lt;- data\n    nest &lt;- pairs[[i]][1]\n    full &lt;- pairs[[i]][2]\n    delta &lt;- NULL\n    for (k in measures){\n      delta[paste0(k,\"_D\")] &lt;- gof[m==nest, get(k)] - gof[m==full, get(k)] }\n    par_LLcorf_nest &lt;- gof[m==nest,par]*gof[m==nest,LLcorrectf]\n    par_LLcorf_full &lt;- gof[m==full,par]*gof[m==full,LLcorrectf]\n    delta[\"CD\"] &lt;- (par_LLcorf_nest-par_LLcorf_full)/delta[\"par_D\"]\n    delta[\"TRd\"] &lt;- (-2*delta[\"LL_D\"])/delta[\"CD\"]\n    delta[\"TRd_df\"] &lt;- gof[m==full, \"par\"] - gof[m==nest, \"par\"]\n    delta[\"TRd_pvalue\"] &lt;- pchisq(as.numeric(delta[\"TRd\"]),\n                                  as.numeric(delta[\"TRd_df\"]), lower.tail = F)\n    comp[[paste0(nest,\" vs. \",full,sep=\"\")]] &lt;- delta }\n  comp &lt;- data.table(comp=names(comp),dplyr::bind_rows(comp))\n  return(comp)\n  }"
+  },
+  {
+    "objectID": "slides/b02.html#comparacion-de-modelos-1",
+    "href": "slides/b02.html#comparacion-de-modelos-1",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Comparacion de modelos",
+    "text": "Comparacion de modelos\n\nModelos 1 y 2: Testear si los efectos son iguales en el tiempo.\n\ncomp1 &lt;- gof.comp(data = gofdt, \n                  pairs = list(c(\"a2\",\"a1\"), c(\"b2\",\"b1\"), c(\"c2\",\"c1\"), c(\"d2\",\"d1\")))\n\nkableExtra::kable(comp1, digits = 3,\n                  format = \"html\", table.attr = \"style='font-size: 18px;'\")\n\n\n\n\ncomp\nCFI_D\nTLI_D\nRMSEA_D\nSRMR_D\nAIC_D\nBIC_D\naBIC_D\npar_D\nLL_D\nCD\nTRd\nTRd_df\nTRd_pvalue\n\n\n\n\na2 vs. a1\n-0.007\n0.002\n-0.001\n0.008\n60.242\n24.351\n43.416\n-6\n-36.121\n4.086\n17.679\n6\n0.007\n\n\nb2 vs. b1\n-0.007\n0.008\n-0.003\n0.009\n59.828\n5.993\n34.589\n-9\n-38.914\n3.712\n20.965\n9\n0.013\n\n\nc2 vs. c1\n-0.010\n0.003\n-0.001\n0.010\n78.201\n24.365\n52.961\n-9\n-48.100\n3.701\n25.995\n9\n0.002\n\n\nd2 vs. d1\n-0.011\n0.012\n-0.004\n0.012\n79.259\n7.478\n45.607\n-12\n-51.630\n3.503\n29.480\n12\n0.003\n\n\n\n\n\n\n\nRutkowski & Svetina (2014), Chen (2007): Para muestras mayores a 300 casos, se recomienda que: \\(\\Delta CFI &lt; 0.02\\), \\(\\Delta RMSEA &lt; 0.03\\)."
+  },
+  {
+    "objectID": "slides/b02.html#comparacion-de-modelos-2",
+    "href": "slides/b02.html#comparacion-de-modelos-2",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Comparacion de modelos",
+    "text": "Comparacion de modelos\n\nModelos A-D: Testear dirección de las relaciones.\n\ncomp2 &lt;- gof.comp(data = gofdt, \n                  pairs = list(c(\"a2\",\"b2\"), c(\"a2\",\"c2\"), c(\"a2\",\"d2\"), \n                               c(\"b2\",\"d2\"), c(\"c2\",\"d2\")))\n\nkableExtra::kable(comp2, digits = 3,\n                  format = \"html\", table.attr = \"style='font-size: 18px;'\")\n\n\n\n\ncomp\nCFI_D\nTLI_D\nRMSEA_D\nSRMR_D\nAIC_D\nBIC_D\naBIC_D\npar_D\nLL_D\nCD\nTRd\nTRd_df\nTRd_pvalue\n\n\n\n\na2 vs. b2\n-0.001\n0.000\n0.000\n0.001\n5.632\n-0.350\n2.827\n-1\n-3.816\n-2.577\n-2.961\n1\n1\n\n\na2 vs. c2\n0.000\n0.002\n-0.001\n0.000\n-1.696\n-7.678\n-4.500\n-1\n-0.152\n-2.692\n-0.113\n1\n1\n\n\na2 vs. d2\n-0.001\n0.002\n-0.001\n0.001\n5.540\n-6.424\n-0.069\n-2\n-4.770\n-2.328\n-4.097\n2\n1\n\n\nb2 vs. d2\n0.000\n0.001\n0.000\n0.000\n-0.092\n-6.074\n-2.896\n-1\n-0.954\n-2.079\n-0.918\n1\n1\n\n\nc2 vs. d2\n-0.001\n0.000\n0.000\n0.001\n7.235\n1.254\n4.431\n-1\n-4.618\n-1.964\n-4.702\n1\n1\n\n\n\n\n\n\n\nRutkowski & Svetina (2014), Chen (2007): Para muestras mayores a 300 casos, se recomienda que: \\(\\Delta CFI &lt; 0.02\\), \\(\\Delta RMSEA &lt; 0.03\\)."
+  },
+  {
+    "objectID": "slides/b02.html#intrepretación",
+    "href": "slides/b02.html#intrepretación",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Intrepretación",
+    "text": "Intrepretación\n\nparameterEstimates(fit[[\"d2\"]])\n\n    lhs op  rhs label   est    se      z pvalue ci.lower ci.upper\n1  RI_x =~ off1       1.000 0.000     NA     NA    1.000    1.000\n2  RI_x =~ off2       1.000 0.000     NA     NA    1.000    1.000\n3  RI_x =~ off3       1.000 0.000     NA     NA    1.000    1.000\n4  RI_x =~ off4       1.000 0.000     NA     NA    1.000    1.000\n5  RI_x =~ off5       1.000 0.000     NA     NA    1.000    1.000\n6  RI_y =~ onl1       1.000 0.000     NA     NA    1.000    1.000\n7  RI_y =~ onl2       1.000 0.000     NA     NA    1.000    1.000\n8  RI_y =~ onl3       1.000 0.000     NA     NA    1.000    1.000\n9  RI_y =~ onl4       1.000 0.000     NA     NA    1.000    1.000\n10 RI_y =~ onl5       1.000 0.000     NA     NA    1.000    1.000\n11  cx1 =~ off1       1.000 0.000     NA     NA    1.000    1.000\n12  cx2 =~ off2       1.000 0.000     NA     NA    1.000    1.000\n13  cx3 =~ off3       1.000 0.000     NA     NA    1.000    1.000\n14  cx4 =~ off4       1.000 0.000     NA     NA    1.000    1.000\n15  cx5 =~ off5       1.000 0.000     NA     NA    1.000    1.000\n16  cy1 =~ onl1       1.000 0.000     NA     NA    1.000    1.000\n17  cy2 =~ onl2       1.000 0.000     NA     NA    1.000    1.000\n18  cy3 =~ onl3       1.000 0.000     NA     NA    1.000    1.000\n19  cy4 =~ onl4       1.000 0.000     NA     NA    1.000    1.000\n20  cy5 =~ onl5       1.000 0.000     NA     NA    1.000    1.000\n21 off1 ~~ off1       0.000 0.000     NA     NA    0.000    0.000\n22 off2 ~~ off2       0.000 0.000     NA     NA    0.000    0.000\n23 off3 ~~ off3       0.000 0.000     NA     NA    0.000    0.000\n24 off4 ~~ off4       0.000 0.000     NA     NA    0.000    0.000\n25 off5 ~~ off5       0.000 0.000     NA     NA    0.000    0.000\n26 onl1 ~~ onl1       0.000 0.000     NA     NA    0.000    0.000\n27 onl2 ~~ onl2       0.000 0.000     NA     NA    0.000    0.000\n28 onl3 ~~ onl3       0.000 0.000     NA     NA    0.000    0.000\n29 onl4 ~~ onl4       0.000 0.000     NA     NA    0.000    0.000\n30 onl5 ~~ onl5       0.000 0.000     NA     NA    0.000    0.000\n31  cx2  ~  cx1     a 0.155 0.025  6.291  0.000    0.107    0.203\n32  cx2  ~  cy1     b 0.013 0.011  1.113  0.266   -0.010    0.035\n33  cx3  ~  cx2     a 0.155 0.025  6.291  0.000    0.107    0.203\n34  cx3  ~  cy2     b 0.013 0.011  1.113  0.266   -0.010    0.035\n35  cx4  ~  cx3     a 0.155 0.025  6.291  0.000    0.107    0.203\n36  cx4  ~  cy3     b 0.013 0.011  1.113  0.266   -0.010    0.035\n37  cx5  ~  cx4     a 0.155 0.025  6.291  0.000    0.107    0.203\n38  cx5  ~  cy4     b 0.013 0.011  1.113  0.266   -0.010    0.035\n39  cy2  ~  cx1     c 0.061 0.026  2.364  0.018    0.010    0.112\n40  cy2  ~  cy1     d 0.142 0.023  6.123  0.000    0.097    0.187\n41  cy3  ~  cx2     c 0.061 0.026  2.364  0.018    0.010    0.112\n42  cy3  ~  cy2     d 0.142 0.023  6.123  0.000    0.097    0.187\n43  cy4  ~  cx3     c 0.061 0.026  2.364  0.018    0.010    0.112\n44  cy4  ~  cy3     d 0.142 0.023  6.123  0.000    0.097    0.187\n45  cy5  ~  cx4     c 0.061 0.026  2.364  0.018    0.010    0.112\n46  cy5  ~  cy4     d 0.142 0.023  6.123  0.000    0.097    0.187\n47  cx1 ~~  cy1       0.177 0.022  7.974  0.000    0.134    0.221\n48  cx2 ~~  cy2       0.134 0.018  7.413  0.000    0.099    0.170\n49  cx3 ~~  cy3       0.061 0.016  3.796  0.000    0.030    0.093\n50  cx4 ~~  cy4       0.222 0.029  7.672  0.000    0.165    0.278\n51  cx5 ~~  cy5       0.008 0.017  0.491  0.624   -0.025    0.042\n52  cx1 ~~  cx1       0.439 0.028 15.553  0.000    0.383    0.494\n53  cy1 ~~  cy1       0.876 0.037 23.916  0.000    0.805    0.948\n54  cx2 ~~  cx2       0.278 0.021 13.374  0.000    0.237    0.318\n55  cy2 ~~  cy2       0.733 0.036 20.166  0.000    0.662    0.805\n56  cx3 ~~  cx3       0.214 0.020 10.547  0.000    0.174    0.254\n57  cy3 ~~  cy3       0.578 0.032 18.092  0.000    0.515    0.640\n58  cx4 ~~  cx4       0.715 0.037 19.141  0.000    0.642    0.789\n59  cy4 ~~  cy4       0.900 0.041 22.178  0.000    0.820    0.979\n60  cx5 ~~  cx5       0.277 0.024 11.614  0.000    0.230    0.323\n61  cy5 ~~  cy5       0.734 0.038 19.295  0.000    0.659    0.809\n62 RI_x ~~ RI_x       0.141 0.017  8.323  0.000    0.108    0.175\n63 RI_y ~~ RI_y       0.548 0.028 19.269  0.000    0.492    0.604\n64 RI_x ~~ RI_y       0.186 0.017 11.190  0.000    0.154    0.219\n65 RI_x ~~  cx1       0.000 0.000     NA     NA    0.000    0.000\n66 RI_x ~~  cy1       0.000 0.000     NA     NA    0.000    0.000\n67 RI_y ~~  cx1       0.000 0.000     NA     NA    0.000    0.000\n68 RI_y ~~  cy1       0.000 0.000     NA     NA    0.000    0.000\n69 off1 ~1            1.313 0.014 91.514  0.000    1.285    1.341\n70 off2 ~1            1.218 0.013 95.375  0.000    1.193    1.243\n71 off3 ~1            1.189 0.012 96.282  0.000    1.165    1.213\n72 off4 ~1            1.500 0.021 72.012  0.000    1.460    1.541\n73 off5 ~1            1.189 0.014 82.300  0.000    1.161    1.217\n74 onl1 ~1            1.714 0.022 78.694  0.000    1.671    1.757\n75 onl2 ~1            1.610 0.022 74.618  0.000    1.567    1.652\n76 onl3 ~1            1.607 0.022 73.643  0.000    1.564    1.650\n77 onl4 ~1            1.865 0.027 70.082  0.000    1.813    1.917\n78 onl5 ~1            1.817 0.027 67.362  0.000    1.764    1.870\n79 RI_x ~1            0.000 0.000     NA     NA    0.000    0.000\n80 RI_y ~1            0.000 0.000     NA     NA    0.000    0.000\n81  cx1 ~1            0.000 0.000     NA     NA    0.000    0.000\n82  cx2 ~1            0.000 0.000     NA     NA    0.000    0.000\n83  cx3 ~1            0.000 0.000     NA     NA    0.000    0.000\n84  cx4 ~1            0.000 0.000     NA     NA    0.000    0.000\n85  cx5 ~1            0.000 0.000     NA     NA    0.000    0.000\n86  cy1 ~1            0.000 0.000     NA     NA    0.000    0.000\n87  cy2 ~1            0.000 0.000     NA     NA    0.000    0.000\n88  cy3 ~1            0.000 0.000     NA     NA    0.000    0.000\n89  cy4 ~1            0.000 0.000     NA     NA    0.000    0.000\n90  cy5 ~1            0.000 0.000     NA     NA    0.000    0.000"
+  },
+  {
+    "objectID": "slides/b02.html#intrepretación-1",
+    "href": "slides/b02.html#intrepretación-1",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Intrepretación",
+    "text": "Intrepretación\n\nparam &lt;- data.table(parameterEstimates(fit[[\"d2\"]]))\nlibrary(kableExtra)\nkable(param[op==\"~~\" & rhs %in% c(\"RI_x\",\"RI_y\"), !\"label\"], digits = 3,\n                  format = \"html\", table.attr = \"style='font-size: 25px;'\")\n\n\n\n\nlhs\nop\nrhs\nest\nse\nz\npvalue\nci.lower\nci.upper\n\n\n\n\nRI_x\n~~\nRI_x\n0.141\n0.017\n8.323\n0\n0.108\n0.175\n\n\nRI_y\n~~\nRI_y\n0.548\n0.028\n19.269\n0\n0.492\n0.604\n\n\nRI_x\n~~\nRI_y\n0.186\n0.017\n11.190\n0\n0.154\n0.219\n\n\n\n\n\n\n\n\nAmbos interceptos aleatorios tienen una varianza significativa. Esto implica que hay diferencias estables, entre individuos, respecto a sus puntajes esperados en participación off-line y on-line.\n\n\n\nSi la varianza no fuera distinta de 0, querría decir que han muy poca diferencias estables entre unidades y que cada individuo fluctúa en torno a la misma gran media en el tiempo."
+  },
+  {
+    "objectID": "slides/b02.html#intrepretación-2",
+    "href": "slides/b02.html#intrepretación-2",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Intrepretación",
+    "text": "Intrepretación\n\n\n\nRI-CLPM: Estimaciones varianzas y covarianza RI\n\n\n\nLa covarianza entre los interceptos aleatorios es significativa \\((.186, SE=.017)\\), lo que sugiere que los individuos que tienen una alta participación online también tienen una alta participación off-line."
+  },
+  {
+    "objectID": "slides/b02.html#efectos-modelo-a-2",
+    "href": "slides/b02.html#efectos-modelo-a-2",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Efectos: Modelo A",
+    "text": "Efectos: Modelo A\n\n\n\nRI-CLPM: Estimaciones varianzas y covarianza RI\n\n\n\nLa covarianza entre los interceptos aleatorios es significativa \\((.186, SE=.017)\\), lo que sugiere que los individuos que tienen una alta participación online también tienen una alta participación off-line."
+  },
+  {
+    "objectID": "slides/b02.html#intrepretación-3",
+    "href": "slides/b02.html#intrepretación-3",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Intrepretación",
+    "text": "Intrepretación\n\nkable(param[op==\"~\" & rhs %in% c(\"cx1\",\"cy1\") & lhs %in% c(\"cx2\",\"cy2\"), !\"label\"],\n      digits = 3, format = \"html\", table.attr = \"style='font-size: 25px;'\")\n\n\n\n\nlhs\nop\nrhs\nest\nse\nz\npvalue\nci.lower\nci.upper\n\n\n\n\ncx2\n~\ncx1\n0.155\n0.025\n6.291\n0.000\n0.107\n0.203\n\n\ncx2\n~\ncy1\n0.013\n0.011\n1.113\n0.266\n-0.010\n0.035\n\n\ncy2\n~\ncx1\n0.061\n0.026\n2.364\n0.018\n0.010\n0.112\n\n\ncy2\n~\ncy1\n0.142\n0.023\n6.123\n0.000\n0.097\n0.187\n\n\n\n\n\n\n\n\nLos coeficientes indican el grado en el cual una variable continua incrementándose, en términos de cambio individual, habiendo controlado por las características individuales estables.\n\n\n\nEfectos autorregresivos:\nTanto para participación off-line como para participación online son significativos (Off-line: \\(\\alpha_{t}=0.155; SE=.025\\) On-line: \\(\\delta_{t}=0.142; SE=.023\\))."
+  },
+  {
+    "objectID": "slides/b02.html#intrepretación-4",
+    "href": "slides/b02.html#intrepretación-4",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Intrepretación",
+    "text": "Intrepretación\n\n\n\nRI-CLPM: Estimaciones paths autorregresivos\n\n\n\nUna desviación de un punto sobre el nivel promedio de los individuos en participación off-line persiste en la siguiente medición como una desviación positiva de 0.155 puntos respecto a su puntaje esperado.\nEn el caso de la participación on-line, una desviación de un punto sobre el nivel promedio individual persiste durante la siguiente medición como una desviación positiva de 0.142 sobre el nivel promedio individual."
+  },
+  {
+    "objectID": "slides/b02.html#intrepretación-5",
+    "href": "slides/b02.html#intrepretación-5",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Intrepretación",
+    "text": "Intrepretación\n\nkable(param[op==\"~\" & rhs %in% c(\"cx1\",\"cy1\") & lhs %in% c(\"cx2\",\"cy2\"), !\"label\"],\n      digits = 3, format = \"html\", table.attr = \"style='font-size: 25px;'\")\n\n\n\n\nlhs\nop\nrhs\nest\nse\nz\npvalue\nci.lower\nci.upper\n\n\n\n\ncx2\n~\ncx1\n0.155\n0.025\n6.291\n0.000\n0.107\n0.203\n\n\ncx2\n~\ncy1\n0.013\n0.011\n1.113\n0.266\n-0.010\n0.035\n\n\ncy2\n~\ncx1\n0.061\n0.026\n2.364\n0.018\n0.010\n0.112\n\n\ncy2\n~\ncy1\n0.142\n0.023\n6.123\n0.000\n0.097\n0.187\n\n\n\n\n\n\n\n\nLos coeficientes indican el grado en el cual una variable continua incrementándose, en términos de cambio individual, habiendo controlado por las características individuales estables.\n\n\nEfectos cross-lagged:\nExisten efectos longitudinales intra-individuo de la participación off-line sobre la participación on-line \\((\\gamma_{t}=0.061; SE=0.026, p=.018)\\). No se observa un efecto longitudinal intra-individuo de la participación on-line sobre la participación off-line \\((\\beta_{t}=0.013; SE=0.011, p=.266)\\)."
+  },
+  {
+    "objectID": "slides/b02.html#intrepretación-6",
+    "href": "slides/b02.html#intrepretación-6",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Intrepretación",
+    "text": "Intrepretación\n\n\n\nRI-CLPM: Estimaciones paths crosslagged\n\n\n\nUna desviación de un punto sobre el nivel promedio de los individuos en participación off-line predice una desviación positiva de 0.061 en la participación on-line durante la siguiente medición, controlando por las desviaciones respecto al puntaje esperado en participación on-line."
+  },
+  {
+    "objectID": "slides/b02.html#estimación-3",
+    "href": "slides/b02.html#estimación-3",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Estimación",
+    "text": "Estimación\n\nfit_lavaan &lt;- lavaan(modelo_lavaan, data=elsoc, estimator = \"MLR\", missing = \"FIML\",\n                     meanstructure = T, int.ov.free = T)\n\n\nEl estimador default de lavaan es maximum likelihood (estimator = \"ML\"), pero podemos especificar otros estimadores alternativos disponibles en lavaan (GLS, WLS, DWLS, ULS, DLS, PML, etc.).\nEn este caso, usamos una estimación de maximum likelihood con errores estándar robustos (Huber-White) y estadísticos de prueba escalados (equivalentes a los estadísticos de prueba de Yuan-Bentler).\n\n\n\nEl comportamiento default de lavaan ante valores perdidos es listwise deletion.\nSi los datos son MCAR (missing completely at random) o MAR (missing at random), podemos estimar caso a caso usando full information maximum likelihood para lidiar con los casos perdidos."
+  },
+  {
+    "objectID": "slides/b02.html#estimación-4",
+    "href": "slides/b02.html#estimación-4",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Estimación",
+    "text": "Estimación\n\nmodels &lt;- c(\"a1\",\"a2\",\"b1\",\"b2\",\"c1\",\"c2\",\"d1\",\"d2\")\n\nfit &lt;- list()\nfor (i in models){\n  fit[[i]] &lt;- lavaan(model = c(bwcomp,get(i),varcov),\n                     data = elsoc, \n                     estimator = \"MLR\", \n                     missing = \"FIML\",\n                     meanstructure = T, \n                     int.ov.free = T)\n}"
+  },
+  {
+    "objectID": "slides/b02.html#material-online",
+    "href": "slides/b02.html#material-online",
+    "title": "Bloque 2: Estimación en R",
+    "section": "Material online",
+    "text": "Material online\n\nDataverse: Estudio Longitudinal Social de Chile\nDiapositivas: https://pjcarozzi.github.io/RICLPM2024/\nRepositorio : https://github.com/pjcarozzi/RICLPM2024\nRICLPM y extensiones*: https://jeroendmulder.github.io/RI-CLPM/"
+  },
+  {
+    "objectID": "slides/b01.html#más-extensiones",
+    "href": "slides/b01.html#más-extensiones",
+    "title": "Bloque 1: Introducción",
+    "section": "Más extensiones",
+    "text": "Más extensiones\n\nMediación: Incluir mediadores que varían en el tiempo (Keele, 2015; Mulder & Hamaker, 2021).\n\n\nModeración: Incluir moderadores estables en el tiempo o que varían en el tiempo (Mulder & Hamaker, 2021; Ozkok et al., 2022; Speyer et al., 2023)."
+  },
+  {
+    "objectID": "slides/b01.html#más-extensiones-y-desarrollos",
+    "href": "slides/b01.html#más-extensiones-y-desarrollos",
+    "title": "Bloque 1: Introducción",
+    "section": "Más extensiones y desarrollos",
+    "text": "Más extensiones y desarrollos\n\nMediación: Incluir mediadores que varían en el tiempo (Keele, 2015; Mulder & Hamaker, 2021).\n\n\n\nModeración: Incluir moderadores estables en el tiempo o que varían en el tiempo (Mulder & Hamaker, 2021; Ozkok et al., 2022; Speyer et al., 2023).\n\n\n\n\nVariables de resultado no-continuas: Resultados binarios o categóricos (Asparouhov & Muthén, 2021).\n\n\n\n\nPoder estadístico: Paquete powRICLPM (Mulder, 2023) para realizar análisis de poder en R."
+  }
+]

@@ -1,0 +1,48 @@
+subtitle: "Curso: Modelos Cross-Lagged de Interceptos Aleatorios (RI-CLPM)"
+author: "Pía Carozzi Lobos"
+email: "pjcarozzi@uc.cl"
+institute: "Escuela de Invierno ELSOC-COES"
+
+format:
+  revealjs: 
+     theme: ../assets/web/slides_styles.scss
+     template-partials:
+       - ../assets/web/title-slide.html
+     email-obfuscation: javascript
+     slide-number: true
+     show-slide-number: all
+     slide-level: 2
+     title-slide-attributes:
+        data-background-color: "#2B2F3C"
+        data-background-image: ../assets/web/logo.png
+        data-background-repeat: no-repeat
+        data-background-position: center 40px
+        data-background-size: 85%
+     center-title-slide: true
+     cap-location: bottom
+     code-overflow: wrap
+     code-line-numbers: true
+     code-copy: true  
+     chalkboard: false
+     multiplex: false
+     include-after: |
+       <script type="text/javascript">
+         Reveal.on('ready', event => {
+         if (event.indexh === 0) {
+        document.querySelector("div.footer").style.display = "none";
+         }
+         });
+         Reveal.addEventListener('slidechanged', (event) => {
+         if (event.indexh === 0) {
+         Reveal.configure({ slideNumber: null });
+         document.querySelector("div.footer").style.display = "none";
+         }
+         if (event.indexh === 1) { 
+         Reveal.configure({ slideNumber: 'c' });
+         document.querySelector("div.footer").style.display = null;
+         }
+         });
+         </script>
+filters:
+- code-fullscreen
+- lordicon             

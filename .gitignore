@@ -1,0 +1,8 @@
+/0_admin/
+/.quarto/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/_site_speaker/
+/slides/

@@ -1,0 +1,123 @@
+/*-- scss:defaults --*/
+  
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic);
+
+// fonts
+$font-family-sans-serif: "Open Sans", sans-serif !default;
+
+
+// colors
+$body-bg: #fff !default;
+$body-color: #000 !default;
+$link-color: #4ABDAC !default;
+$link-color-hover: lighten($link-color, 15%);
+$selection-bg: #F7B733 !default;
+$selection-color: #fff !default;
+$input-panel-bg: rgba(233, 236, 239, 0.2) !default;
+
+
+// headings
+$presentation-heading-font: "Montserrat", Impact, sans-serif;
+$presentation-heading-font-weight: 700 !default;
+$presentation-h1-font-size: 2em !default;
+$presentation-heading-letter-spacing: -0.03em;
+$presentation-heading-text-transform: uppercase !default;
+$presentation-font-size-root: 35px !default;
+
+// code blocks
+$code-block-border-color: transparent;
+$code-block-bg: lighten($body-color, 97%);
+$code-block-border-color: lighten($body-color, 90%);
+$code-color: #008F95;
+
+/*-- scss:rules --*/
+
+#title-slide, #title-slide h1, #title-slide a,{
+  color: #FFFFFF !important;
+}
+
+#title-slide h1,{
+  font-size: 1.77em !important;
+  margin-top: 150px;
+}
+
+.reveal .slide-number > a[href*='title-slide'] {
+  display: none;
+}
+
+.inverse {
+  background-color: #2B2F3C !important;
+  color: #000000 !important;
+  text-shadow: none;
+}
+
+.inverse .remark-slide-number {
+  display: none;
+}
+
+.reveal h1, .reveal h2, .reveal h3 {
+  color: #214559;
+}
+
+.reveal em {
+   color: #214559;
+}
+
+.reveal strong {
+   color: #FC4A1A;
+}
+
+
+.reveal ul li::marker{
+    color: #F7B733;
+}
+
+
+.reveal small code {
+  vertical-align: baseline;
+}
+
+.reveal p code {
+  display: inline-block;
+  border-radius: 7px;
+}
+
+.reveal .slide blockquote {
+  border-left: 3px solid $text-muted;
+  padding-left: 0.5em;
+}
+
+.reveal blockquote {
+  border-left: solid 5px #C7D0D580;
+  padding-left: 1em;
+}
+
+.reveal .footer > p {
+  font-size: 0.7em !important;
+}
+
+.reveal lord-icon {
+  float: left;
+  margin-left: 25px;
+  width: 96px;
+  height: 96px;
+}
+
+.reveal .slides section .callout {
+ 	  font-size: 0.85em;
+}
+
+.reveal figcaption {
+  margin: auto;
+  text-align: center !important;
+}
+
+.reveal .center {
+  text-align: center !important;
+}
+
+.panel-tabset-tabby {
+  font-size: 25px !important;
+  font-style: italic
+}
